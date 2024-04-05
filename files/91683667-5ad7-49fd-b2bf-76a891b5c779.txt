@@ -1,0 +1,1503 @@
+﻿2024-04-01 19:58:24.484 - ShareX starting.
+2024-04-01 19:58:24.496 - Version: 15.0
+2024-04-01 19:58:24.496 - Build: Release
+2024-04-01 19:58:24.496 - Command line: "C:\Program Files\ShareX\ShareX.exe" -silent
+2024-04-01 19:58:24.496 - Personal path: C:\Users\Aureliony\Documents\ShareX
+2024-04-01 19:58:24.496 - Operating system: Windows 10 Pro (64-bit)
+2024-04-01 19:58:24.497 - Running as elevated process: True
+2024-04-01 19:58:24.528 - Flags: SilentRun
+2024-04-01 19:58:24.554 - ApplicationConfig load started: C:\Users\Aureliony\Documents\ShareX\ApplicationConfig.json
+2024-04-01 19:58:25.592 - ApplicationConfig load finished: C:\Users\Aureliony\Documents\ShareX\ApplicationConfig.json
+2024-04-01 19:58:25.601 - UploadersConfig load started: C:\Users\Aureliony\Documents\ShareX\UploadersConfig.json
+2024-04-01 19:58:25.617 - MainForm init started.
+2024-04-01 19:58:25.698 - UploadersConfig load finished: C:\Users\Aureliony\Documents\ShareX\UploadersConfig.json
+2024-04-01 19:58:25.706 - HotkeysConfig load started: C:\Users\Aureliony\Documents\ShareX\HotkeysConfig.json
+2024-04-01 19:58:25.825 - HotkeysConfig load finished: C:\Users\Aureliony\Documents\ShareX\HotkeysConfig.json
+2024-04-01 19:58:26.310 - MainForm init finished.
+2024-04-01 19:58:26.431 - Startup time: 2126 ms
+2024-04-01 19:58:26.434 - CommandLine: -silent
+2024-04-01 19:58:26.450 - Hotkey registered: Hotkey: Print Screen, Description: Capture region, Job: RectangleRegion
+2024-04-01 19:58:26.450 - Hotkey registered: Hotkey: Ctrl + Print Screen, Description: Start/Stop screen recording (GIF), Job: ScreenRecorderGIF
+2024-04-01 19:58:26.451 - HotkeyManager started.
+2024-04-01 19:58:26.452 - WatchFolderManager started.
+2024-04-01 20:32:51.175 - Hotkey triggered. Hotkey: Print Screen, Description: Capture region, Job: RectangleRegion
+2024-04-01 20:32:51.179 - Executing: Capture region
+2024-04-01 20:32:54.532 - Task in queue. Job: Job, Type: Image, Host: 
+2024-04-01 20:32:54.570 - Task status: Preparing
+2024-04-01 20:32:54.603 - Image copied to clipboard.
+2024-04-01 20:32:54.614 - Image saved to file: C:\Users\Aureliony\Documents\ShareX\Screenshots\chrome_mnnHHZlBTj.png
+2024-04-01 20:32:54.624 - Task completed. File name: chrome_mnnHHZlBTj.png, Duration: 52 ms
+2024-04-01 20:40:01.469 - Hotkey triggered. Hotkey: Print Screen, Description: Capture region, Job: RectangleRegion
+2024-04-01 20:40:01.469 - Executing: Capture region
+2024-04-01 21:02:50.383 - ShareX closing.
+2024-04-01 21:02:50.385 - ApplicationConfig save started: C:\Users\Aureliony\Documents\ShareX\ApplicationConfig.json
+2024-04-01 21:02:50.589 - ApplicationConfig save successful: C:\Users\Aureliony\Documents\ShareX\ApplicationConfig.json
+2024-04-01 21:02:50.590 - UploadersConfig save started: C:\Users\Aureliony\Documents\ShareX\UploadersConfig.json
+2024-04-01 21:02:50.640 - UploadersConfig save successful: C:\Users\Aureliony\Documents\ShareX\UploadersConfig.json
+2024-04-01 21:02:50.640 - HotkeysConfig save started: C:\Users\Aureliony\Documents\ShareX\HotkeysConfig.json
+2024-04-01 21:02:50.715 - HotkeysConfig save successful: C:\Users\Aureliony\Documents\ShareX\HotkeysConfig.json
+2024-04-01 21:02:50.715 - ShareX closed.
+2024-04-01 21:03:44.615 - ShareX starting.
+2024-04-01 21:03:44.626 - Version: 15.0
+2024-04-01 21:03:44.626 - Build: Release
+2024-04-01 21:03:44.626 - Command line: "C:\Program Files\ShareX\ShareX.exe" -silent
+2024-04-01 21:03:44.626 - Personal path: C:\Users\Aureliony\Documents\ShareX
+2024-04-01 21:03:44.626 - Operating system: Windows 10 Pro (64-bit)
+2024-04-01 21:03:44.626 - Running as elevated process: True
+2024-04-01 21:03:44.656 - Flags: SilentRun
+2024-04-01 21:03:44.683 - ApplicationConfig load started: C:\Users\Aureliony\Documents\ShareX\ApplicationConfig.json
+2024-04-01 21:03:45.217 - ApplicationConfig load finished: C:\Users\Aureliony\Documents\ShareX\ApplicationConfig.json
+2024-04-01 21:03:45.226 - UploadersConfig load started: C:\Users\Aureliony\Documents\ShareX\UploadersConfig.json
+2024-04-01 21:03:45.243 - MainForm init started.
+2024-04-01 21:03:45.321 - UploadersConfig load finished: C:\Users\Aureliony\Documents\ShareX\UploadersConfig.json
+2024-04-01 21:03:45.328 - HotkeysConfig load started: C:\Users\Aureliony\Documents\ShareX\HotkeysConfig.json
+2024-04-01 21:03:45.448 - HotkeysConfig load finished: C:\Users\Aureliony\Documents\ShareX\HotkeysConfig.json
+2024-04-01 21:03:45.957 - MainForm init finished.
+2024-04-01 21:03:46.076 - Startup time: 1639 ms
+2024-04-01 21:03:46.079 - CommandLine: -silent
+2024-04-01 21:03:46.096 - Hotkey registered: Hotkey: Print Screen, Description: Capture region, Job: RectangleRegion
+2024-04-01 21:03:46.096 - Hotkey registered: Hotkey: Ctrl + Print Screen, Description: Start/Stop screen recording (GIF), Job: ScreenRecorderGIF
+2024-04-01 21:03:46.097 - HotkeyManager started.
+2024-04-01 21:03:46.098 - WatchFolderManager started.
+2024-04-02 03:04:32.017 - ShareX closing.
+2024-04-02 03:04:32.021 - ApplicationConfig save started: C:\Users\Aureliony\Documents\ShareX\ApplicationConfig.json
+2024-04-02 03:04:32.249 - ApplicationConfig save successful: C:\Users\Aureliony\Documents\ShareX\ApplicationConfig.json
+2024-04-02 03:04:32.249 - UploadersConfig save started: C:\Users\Aureliony\Documents\ShareX\UploadersConfig.json
+2024-04-02 03:04:32.305 - UploadersConfig save successful: C:\Users\Aureliony\Documents\ShareX\UploadersConfig.json
+2024-04-02 03:04:32.305 - HotkeysConfig save started: C:\Users\Aureliony\Documents\ShareX\HotkeysConfig.json
+2024-04-02 03:04:32.385 - HotkeysConfig save successful: C:\Users\Aureliony\Documents\ShareX\HotkeysConfig.json
+2024-04-02 03:04:32.385 - ShareX closed.
+2024-04-02 03:05:26.659 - ShareX starting.
+2024-04-02 03:05:26.669 - Version: 15.0
+2024-04-02 03:05:26.669 - Build: Release
+2024-04-02 03:05:26.669 - Command line: "C:\Program Files\ShareX\ShareX.exe" -silent
+2024-04-02 03:05:26.669 - Personal path: C:\Users\Aureliony\Documents\ShareX
+2024-04-02 03:05:26.670 - Operating system: Windows 10 Pro (64-bit)
+2024-04-02 03:05:26.670 - Running as elevated process: True
+2024-04-02 03:05:26.700 - Flags: SilentRun
+2024-04-02 03:05:26.726 - ApplicationConfig load started: C:\Users\Aureliony\Documents\ShareX\ApplicationConfig.json
+2024-04-02 03:05:27.437 - ApplicationConfig load finished: C:\Users\Aureliony\Documents\ShareX\ApplicationConfig.json
+2024-04-02 03:05:27.447 - UploadersConfig load started: C:\Users\Aureliony\Documents\ShareX\UploadersConfig.json
+2024-04-02 03:05:27.465 - MainForm init started.
+2024-04-02 03:05:27.559 - UploadersConfig load finished: C:\Users\Aureliony\Documents\ShareX\UploadersConfig.json
+2024-04-02 03:05:27.566 - HotkeysConfig load started: C:\Users\Aureliony\Documents\ShareX\HotkeysConfig.json
+2024-04-02 03:05:27.689 - HotkeysConfig load finished: C:\Users\Aureliony\Documents\ShareX\HotkeysConfig.json
+2024-04-02 03:05:28.187 - MainForm init finished.
+2024-04-02 03:05:28.309 - Startup time: 1825 ms
+2024-04-02 03:05:28.313 - CommandLine: -silent
+2024-04-02 03:05:28.329 - Hotkey registered: Hotkey: Print Screen, Description: Capture region, Job: RectangleRegion
+2024-04-02 03:05:28.329 - Hotkey registered: Hotkey: Ctrl + Print Screen, Description: Start/Stop screen recording (GIF), Job: ScreenRecorderGIF
+2024-04-02 03:05:28.330 - HotkeyManager started.
+2024-04-02 03:05:28.331 - WatchFolderManager started.
+2024-04-02 03:19:33.208 - ShareX closing.
+2024-04-02 03:19:33.210 - ApplicationConfig save started: C:\Users\Aureliony\Documents\ShareX\ApplicationConfig.json
+2024-04-02 03:19:33.420 - ApplicationConfig save successful: C:\Users\Aureliony\Documents\ShareX\ApplicationConfig.json
+2024-04-02 03:19:33.420 - UploadersConfig save started: C:\Users\Aureliony\Documents\ShareX\UploadersConfig.json
+2024-04-02 03:19:33.470 - UploadersConfig save successful: C:\Users\Aureliony\Documents\ShareX\UploadersConfig.json
+2024-04-02 03:19:33.470 - HotkeysConfig save started: C:\Users\Aureliony\Documents\ShareX\HotkeysConfig.json
+2024-04-02 03:19:33.556 - HotkeysConfig save successful: C:\Users\Aureliony\Documents\ShareX\HotkeysConfig.json
+2024-04-02 03:19:33.556 - ShareX closed.
+2024-04-02 03:20:27.147 - ShareX starting.
+2024-04-02 03:20:27.158 - Version: 15.0
+2024-04-02 03:20:27.158 - Build: Release
+2024-04-02 03:20:27.158 - Command line: "C:\Program Files\ShareX\ShareX.exe" -silent
+2024-04-02 03:20:27.158 - Personal path: C:\Users\Aureliony\Documents\ShareX
+2024-04-02 03:20:27.158 - Operating system: Windows 10 Pro (64-bit)
+2024-04-02 03:20:27.159 - Running as elevated process: True
+2024-04-02 03:20:27.189 - Flags: SilentRun
+2024-04-02 03:20:27.214 - ApplicationConfig load started: C:\Users\Aureliony\Documents\ShareX\ApplicationConfig.json
+2024-04-02 03:20:27.761 - ApplicationConfig load finished: C:\Users\Aureliony\Documents\ShareX\ApplicationConfig.json
+2024-04-02 03:20:27.770 - UploadersConfig load started: C:\Users\Aureliony\Documents\ShareX\UploadersConfig.json
+2024-04-02 03:20:27.787 - MainForm init started.
+2024-04-02 03:20:27.866 - UploadersConfig load finished: C:\Users\Aureliony\Documents\ShareX\UploadersConfig.json
+2024-04-02 03:20:27.873 - HotkeysConfig load started: C:\Users\Aureliony\Documents\ShareX\HotkeysConfig.json
+2024-04-02 03:20:27.991 - HotkeysConfig load finished: C:\Users\Aureliony\Documents\ShareX\HotkeysConfig.json
+2024-04-02 03:20:28.480 - MainForm init finished.
+2024-04-02 03:20:28.599 - Startup time: 1623 ms
+2024-04-02 03:20:28.602 - CommandLine: -silent
+2024-04-02 03:20:28.619 - Hotkey registered: Hotkey: Print Screen, Description: Capture region, Job: RectangleRegion
+2024-04-02 03:20:28.619 - Hotkey registered: Hotkey: Ctrl + Print Screen, Description: Start/Stop screen recording (GIF), Job: ScreenRecorderGIF
+2024-04-02 03:20:28.621 - HotkeyManager started.
+2024-04-02 03:20:28.621 - WatchFolderManager started.
+2024-04-02 04:19:06.680 - ShareX closing.
+2024-04-02 04:19:06.682 - ApplicationConfig save started: C:\Users\Aureliony\Documents\ShareX\ApplicationConfig.json
+2024-04-02 04:19:06.864 - ApplicationConfig save successful: C:\Users\Aureliony\Documents\ShareX\ApplicationConfig.json
+2024-04-02 04:19:06.864 - UploadersConfig save started: C:\Users\Aureliony\Documents\ShareX\UploadersConfig.json
+2024-04-02 04:19:06.919 - UploadersConfig save successful: C:\Users\Aureliony\Documents\ShareX\UploadersConfig.json
+2024-04-02 04:19:06.919 - HotkeysConfig save started: C:\Users\Aureliony\Documents\ShareX\HotkeysConfig.json
+2024-04-02 04:19:06.998 - HotkeysConfig save successful: C:\Users\Aureliony\Documents\ShareX\HotkeysConfig.json
+2024-04-02 04:19:06.999 - ShareX closed.
+2024-04-02 13:48:19.286 - ShareX starting.
+2024-04-02 13:48:19.297 - Version: 15.0
+2024-04-02 13:48:19.297 - Build: Release
+2024-04-02 13:48:19.297 - Command line: "C:\Program Files\ShareX\ShareX.exe" -silent
+2024-04-02 13:48:19.297 - Personal path: C:\Users\Aureliony\Documents\ShareX
+2024-04-02 13:48:19.297 - Operating system: Windows 10 Pro (64-bit)
+2024-04-02 13:48:19.297 - Running as elevated process: True
+2024-04-02 13:48:19.328 - Flags: SilentRun
+2024-04-02 13:48:19.352 - ApplicationConfig load started: C:\Users\Aureliony\Documents\ShareX\ApplicationConfig.json
+2024-04-02 13:48:20.269 - ApplicationConfig load finished: C:\Users\Aureliony\Documents\ShareX\ApplicationConfig.json
+2024-04-02 13:48:20.278 - UploadersConfig load started: C:\Users\Aureliony\Documents\ShareX\UploadersConfig.json
+2024-04-02 13:48:20.295 - MainForm init started.
+2024-04-02 13:48:20.377 - UploadersConfig load finished: C:\Users\Aureliony\Documents\ShareX\UploadersConfig.json
+2024-04-02 13:48:20.385 - HotkeysConfig load started: C:\Users\Aureliony\Documents\ShareX\HotkeysConfig.json
+2024-04-02 13:48:20.507 - HotkeysConfig load finished: C:\Users\Aureliony\Documents\ShareX\HotkeysConfig.json
+2024-04-02 13:48:21.012 - MainForm init finished.
+2024-04-02 13:48:21.128 - Startup time: 2007 ms
+2024-04-02 13:48:21.132 - CommandLine: -silent
+2024-04-02 13:48:21.147 - Hotkey registered: Hotkey: Print Screen, Description: Capture region, Job: RectangleRegion
+2024-04-02 13:48:21.147 - Hotkey registered: Hotkey: Ctrl + Print Screen, Description: Start/Stop screen recording (GIF), Job: ScreenRecorderGIF
+2024-04-02 13:48:21.149 - HotkeyManager started.
+2024-04-02 13:48:21.149 - WatchFolderManager started.
+2024-04-02 16:10:34.362 - ShareX closing.
+2024-04-02 16:10:34.365 - ApplicationConfig save started: C:\Users\Aureliony\Documents\ShareX\ApplicationConfig.json
+2024-04-02 16:10:34.576 - ApplicationConfig save successful: C:\Users\Aureliony\Documents\ShareX\ApplicationConfig.json
+2024-04-02 16:10:34.577 - UploadersConfig save started: C:\Users\Aureliony\Documents\ShareX\UploadersConfig.json
+2024-04-02 16:10:34.624 - UploadersConfig save successful: C:\Users\Aureliony\Documents\ShareX\UploadersConfig.json
+2024-04-02 16:10:34.624 - HotkeysConfig save started: C:\Users\Aureliony\Documents\ShareX\HotkeysConfig.json
+2024-04-02 16:10:34.706 - HotkeysConfig save successful: C:\Users\Aureliony\Documents\ShareX\HotkeysConfig.json
+2024-04-02 16:10:34.707 - ShareX closed.
+2024-04-02 16:11:27.067 - ShareX starting.
+2024-04-02 16:11:27.085 - Version: 15.0
+2024-04-02 16:11:27.085 - Build: Release
+2024-04-02 16:11:27.085 - Command line: "C:\Program Files\ShareX\ShareX.exe" -silent
+2024-04-02 16:11:27.086 - Personal path: C:\Users\Aureliony\Documents\ShareX
+2024-04-02 16:11:27.086 - Operating system: Windows 10 Pro (64-bit)
+2024-04-02 16:11:27.086 - Running as elevated process: True
+2024-04-02 16:11:27.136 - Flags: SilentRun
+2024-04-02 16:11:27.188 - ApplicationConfig load started: C:\Users\Aureliony\Documents\ShareX\ApplicationConfig.json
+2024-04-02 16:11:28.278 - ApplicationConfig load finished: C:\Users\Aureliony\Documents\ShareX\ApplicationConfig.json
+2024-04-02 16:11:28.294 - UploadersConfig load started: C:\Users\Aureliony\Documents\ShareX\UploadersConfig.json
+2024-04-02 16:11:28.319 - MainForm init started.
+2024-04-02 16:11:28.427 - UploadersConfig load finished: C:\Users\Aureliony\Documents\ShareX\UploadersConfig.json
+2024-04-02 16:11:28.435 - HotkeysConfig load started: C:\Users\Aureliony\Documents\ShareX\HotkeysConfig.json
+2024-04-02 16:11:28.618 - HotkeysConfig load finished: C:\Users\Aureliony\Documents\ShareX\HotkeysConfig.json
+2024-04-02 16:11:29.218 - MainForm init finished.
+2024-04-02 16:11:29.364 - Startup time: 2522 ms
+2024-04-02 16:11:29.368 - CommandLine: -silent
+2024-04-02 16:11:29.386 - Hotkey registered: Hotkey: Print Screen, Description: Capture region, Job: RectangleRegion
+2024-04-02 16:11:29.386 - Hotkey registered: Hotkey: Ctrl + Print Screen, Description: Start/Stop screen recording (GIF), Job: ScreenRecorderGIF
+2024-04-02 16:11:29.388 - HotkeyManager started.
+2024-04-02 16:11:29.389 - WatchFolderManager started.
+2024-04-02 20:36:21.319 - Hotkey triggered. Hotkey: Print Screen, Description: Capture region, Job: RectangleRegion
+2024-04-02 20:36:21.323 - Executing: Capture region
+2024-04-02 20:36:24.781 - Task in queue. Job: Job, Type: Image, Host: 
+2024-04-02 20:36:24.820 - Task status: Preparing
+2024-04-02 20:36:24.854 - Image copied to clipboard.
+2024-04-02 20:36:24.868 - Image saved to file: C:\Users\Aureliony\Documents\ShareX\Screenshots\chrome_xjpXzDsRoI.png
+2024-04-02 20:36:24.881 - Task completed. File name: chrome_xjpXzDsRoI.png, Duration: 59 ms
+2024-04-02 21:41:49.110 - Hotkey triggered. Hotkey: Print Screen, Description: Capture region, Job: RectangleRegion
+2024-04-02 21:41:49.110 - Executing: Capture region
+2024-04-02 21:41:50.449 - Task in queue. Job: Job, Type: Image, Host: 
+2024-04-02 21:41:50.452 - Task status: Preparing
+2024-04-02 21:41:50.466 - Image copied to clipboard.
+2024-04-02 21:41:50.475 - Image saved to file: C:\Users\Aureliony\Documents\ShareX\Screenshots\java_KkodTXDVb2.png
+2024-04-02 21:41:50.485 - Task completed. File name: java_KkodTXDVb2.png, Duration: 32 ms
+2024-04-02 21:42:34.454 - Hotkey triggered. Hotkey: Print Screen, Description: Capture region, Job: RectangleRegion
+2024-04-02 21:42:34.454 - Executing: Capture region
+2024-04-02 21:42:35.726 - Task in queue. Job: Job, Type: Image, Host: 
+2024-04-02 21:42:35.748 - Task status: Preparing
+2024-04-02 21:42:35.763 - Image copied to clipboard.
+2024-04-02 21:42:35.770 - Image saved to file: C:\Users\Aureliony\Documents\ShareX\Screenshots\java_rSqYQvXusM.png
+2024-04-02 21:42:35.785 - Task completed. File name: java_rSqYQvXusM.png, Duration: 37 ms
+2024-04-03 00:06:54.276 - Hotkey triggered. Hotkey: Print Screen, Description: Capture region, Job: RectangleRegion
+2024-04-03 00:06:54.276 - Executing: Capture region
+2024-04-03 00:06:57.209 - Task in queue. Job: Job, Type: Image, Host: 
+2024-04-03 00:06:57.212 - Task status: Preparing
+2024-04-03 00:06:57.226 - Image copied to clipboard.
+2024-04-03 00:06:57.242 - Image saved to file: C:\Users\Aureliony\Documents\ShareX\Screenshots\chrome_3ziMdvnAfm.png
+2024-04-03 00:06:57.250 - Task completed. File name: chrome_3ziMdvnAfm.png, Duration: 38 ms
+2024-04-03 00:24:56.873 - Hotkey triggered. Hotkey: Print Screen, Description: Capture region, Job: RectangleRegion
+2024-04-03 00:24:56.873 - Executing: Capture region
+2024-04-03 00:24:59.526 - Task in queue. Job: Job, Type: Image, Host: 
+2024-04-03 00:24:59.530 - Task status: Preparing
+2024-04-03 00:24:59.543 - Image copied to clipboard.
+2024-04-03 00:24:59.547 - Image saved to file: C:\Users\Aureliony\Documents\ShareX\Screenshots\chrome_EQ4NrzYRP5.png
+2024-04-03 00:24:59.550 - Task completed. File name: chrome_EQ4NrzYRP5.png, Duration: 20 ms
+2024-04-03 00:34:45.258 - Hotkey triggered. Hotkey: Print Screen, Description: Capture region, Job: RectangleRegion
+2024-04-03 00:34:45.258 - Executing: Capture region
+2024-04-03 00:34:46.578 - Task in queue. Job: Job, Type: Image, Host: 
+2024-04-03 00:34:46.581 - Task status: Preparing
+2024-04-03 00:34:46.596 - Image copied to clipboard.
+2024-04-03 00:34:46.603 - Image saved to file: C:\Users\Aureliony\Documents\ShareX\Screenshots\java_aRsiGyUDvk.png
+2024-04-03 00:34:46.615 - Task completed. File name: java_aRsiGyUDvk.png, Duration: 34 ms
+2024-04-03 00:42:47.244 - Hotkey triggered. Hotkey: Print Screen, Description: Capture region, Job: RectangleRegion
+2024-04-03 00:42:47.244 - Executing: Capture region
+2024-04-03 00:42:50.078 - Task in queue. Job: Job, Type: Image, Host: 
+2024-04-03 00:42:50.082 - Task status: Preparing
+2024-04-03 00:42:50.092 - Image copied to clipboard.
+2024-04-03 00:42:50.095 - Image saved to file: C:\Users\Aureliony\Documents\ShareX\Screenshots\java_eIr6tFOsMk.png
+2024-04-03 00:42:50.098 - Task completed. File name: java_eIr6tFOsMk.png, Duration: 17 ms
+2024-04-03 00:51:02.594 - Hotkey triggered. Hotkey: Print Screen, Description: Capture region, Job: RectangleRegion
+2024-04-03 00:51:02.594 - Executing: Capture region
+2024-04-03 00:51:06.982 - Task in queue. Job: Job, Type: Image, Host: 
+2024-04-03 00:51:06.986 - Task status: Preparing
+2024-04-03 00:51:07.010 - Image copied to clipboard.
+2024-04-03 00:51:07.024 - Image saved to file: C:\Users\Aureliony\Documents\ShareX\Screenshots\chrome_u6zEqytTZL.png
+2024-04-03 00:51:07.039 - Task completed. File name: chrome_u6zEqytTZL.png, Duration: 53 ms
+2024-04-03 00:54:21.003 - Hotkey triggered. Hotkey: Print Screen, Description: Capture region, Job: RectangleRegion
+2024-04-03 00:54:21.003 - Executing: Capture region
+2024-04-03 00:54:26.940 - Task in queue. Job: Job, Type: Image, Host: 
+2024-04-03 00:54:26.944 - Task status: Preparing
+2024-04-03 00:54:26.963 - Image copied to clipboard.
+2024-04-03 00:54:26.976 - Image saved to file: C:\Users\Aureliony\Documents\ShareX\Screenshots\chrome_ZpzvgipfpG.png
+2024-04-03 00:54:26.989 - Task completed. File name: chrome_ZpzvgipfpG.png, Duration: 44 ms
+2024-04-03 00:55:30.951 - Hotkey triggered. Hotkey: Print Screen, Description: Capture region, Job: RectangleRegion
+2024-04-03 00:55:30.951 - Executing: Capture region
+2024-04-03 00:55:33.488 - Task in queue. Job: Job, Type: Image, Host: 
+2024-04-03 00:55:33.492 - Task status: Preparing
+2024-04-03 00:55:33.505 - Image copied to clipboard.
+2024-04-03 00:55:33.511 - Image saved to file: C:\Users\Aureliony\Documents\ShareX\Screenshots\chrome_2Rmr5F3MIq.png
+2024-04-03 00:55:33.516 - Task completed. File name: chrome_2Rmr5F3MIq.png, Duration: 24 ms
+2024-04-03 00:57:36.180 - Hotkey triggered. Hotkey: Print Screen, Description: Capture region, Job: RectangleRegion
+2024-04-03 00:57:36.180 - Executing: Capture region
+2024-04-03 00:57:47.435 - Hotkey triggered. Hotkey: Print Screen, Description: Capture region, Job: RectangleRegion
+2024-04-03 00:57:47.435 - Executing: Capture region
+2024-04-03 00:57:48.394 - Task in queue. Job: Job, Type: Image, Host: 
+2024-04-03 00:57:48.398 - Task status: Preparing
+2024-04-03 00:57:48.414 - Image copied to clipboard.
+2024-04-03 00:57:48.424 - Image saved to file: C:\Users\Aureliony\Documents\ShareX\Screenshots\WindowsTerminal_QH3BCm93ME.png
+2024-04-03 00:57:48.433 - Task completed. File name: WindowsTerminal_QH3BCm93ME.png, Duration: 36 ms
+2024-04-03 01:00:17.985 - ShareX closing.
+2024-04-03 01:00:17.987 - ApplicationConfig save started: C:\Users\Aureliony\Documents\ShareX\ApplicationConfig.json
+2024-04-03 01:00:18.202 - ApplicationConfig save successful: C:\Users\Aureliony\Documents\ShareX\ApplicationConfig.json
+2024-04-03 01:00:18.202 - UploadersConfig save started: C:\Users\Aureliony\Documents\ShareX\UploadersConfig.json
+2024-04-03 01:00:18.255 - UploadersConfig save successful: C:\Users\Aureliony\Documents\ShareX\UploadersConfig.json
+2024-04-03 01:00:18.255 - HotkeysConfig save started: C:\Users\Aureliony\Documents\ShareX\HotkeysConfig.json
+2024-04-03 01:00:18.344 - HotkeysConfig save successful: C:\Users\Aureliony\Documents\ShareX\HotkeysConfig.json
+2024-04-03 01:00:18.344 - ShareX closed.
+2024-04-03 01:00:39.582 - ShareX starting.
+2024-04-03 01:00:39.588 - Version: 15.0
+2024-04-03 01:00:39.588 - Build: Release
+2024-04-03 01:00:39.588 - Command line: "C:\Program Files\ShareX\ShareX.exe" -silent
+2024-04-03 01:00:39.588 - Personal path: C:\Users\Aureliony\Documents\ShareX
+2024-04-03 01:00:39.589 - Operating system: Windows 10 Pro (64-bit)
+2024-04-03 01:00:39.589 - Running as elevated process: True
+2024-04-03 01:00:39.616 - Flags: SilentRun
+2024-04-03 01:00:39.629 - ApplicationConfig load started: C:\Users\Aureliony\Documents\ShareX\ApplicationConfig.json
+2024-04-03 01:00:40.216 - ApplicationConfig load finished: C:\Users\Aureliony\Documents\ShareX\ApplicationConfig.json
+2024-04-03 01:00:40.220 - UploadersConfig load started: C:\Users\Aureliony\Documents\ShareX\UploadersConfig.json
+2024-04-03 01:00:40.241 - MainForm init started.
+2024-04-03 01:00:40.309 - UploadersConfig load finished: C:\Users\Aureliony\Documents\ShareX\UploadersConfig.json
+2024-04-03 01:00:40.312 - HotkeysConfig load started: C:\Users\Aureliony\Documents\ShareX\HotkeysConfig.json
+2024-04-03 01:00:40.443 - HotkeysConfig load finished: C:\Users\Aureliony\Documents\ShareX\HotkeysConfig.json
+2024-04-03 01:00:40.910 - MainForm init finished.
+2024-04-03 01:00:41.023 - Startup time: 1601 ms
+2024-04-03 01:00:41.026 - CommandLine: -silent
+2024-04-03 01:00:41.042 - Hotkey registered: Hotkey: Print Screen, Description: Capture region, Job: RectangleRegion
+2024-04-03 01:00:41.042 - Hotkey registered: Hotkey: Ctrl + Print Screen, Description: Start/Stop screen recording (GIF), Job: ScreenRecorderGIF
+2024-04-03 01:00:41.043 - HotkeyManager started.
+2024-04-03 01:00:41.044 - WatchFolderManager started.
+2024-04-03 01:00:50.751 - ShareX closing.
+2024-04-03 01:00:50.753 - ApplicationConfig save started: C:\Users\Aureliony\Documents\ShareX\ApplicationConfig.json
+2024-04-03 01:00:50.933 - ApplicationConfig save successful: C:\Users\Aureliony\Documents\ShareX\ApplicationConfig.json
+2024-04-03 01:00:50.933 - UploadersConfig save started: C:\Users\Aureliony\Documents\ShareX\UploadersConfig.json
+2024-04-03 01:00:50.981 - UploadersConfig save successful: C:\Users\Aureliony\Documents\ShareX\UploadersConfig.json
+2024-04-03 01:00:50.981 - HotkeysConfig save started: C:\Users\Aureliony\Documents\ShareX\HotkeysConfig.json
+2024-04-03 01:00:51.062 - HotkeysConfig save successful: C:\Users\Aureliony\Documents\ShareX\HotkeysConfig.json
+2024-04-03 01:00:51.062 - ShareX closed.
+2024-04-03 01:01:17.659 - ShareX starting.
+2024-04-03 01:01:17.666 - Version: 15.0
+2024-04-03 01:01:17.666 - Build: Release
+2024-04-03 01:01:17.666 - Command line: "C:\Program Files\ShareX\ShareX.exe" -silent
+2024-04-03 01:01:17.666 - Personal path: C:\Users\Aureliony\Documents\ShareX
+2024-04-03 01:01:17.666 - Operating system: Windows 10 Pro (64-bit)
+2024-04-03 01:01:17.667 - Running as elevated process: True
+2024-04-03 01:01:17.694 - Flags: SilentRun
+2024-04-03 01:01:17.707 - ApplicationConfig load started: C:\Users\Aureliony\Documents\ShareX\ApplicationConfig.json
+2024-04-03 01:01:18.148 - ApplicationConfig load finished: C:\Users\Aureliony\Documents\ShareX\ApplicationConfig.json
+2024-04-03 01:01:18.152 - UploadersConfig load started: C:\Users\Aureliony\Documents\ShareX\UploadersConfig.json
+2024-04-03 01:01:18.172 - MainForm init started.
+2024-04-03 01:01:18.242 - UploadersConfig load finished: C:\Users\Aureliony\Documents\ShareX\UploadersConfig.json
+2024-04-03 01:01:18.245 - HotkeysConfig load started: C:\Users\Aureliony\Documents\ShareX\HotkeysConfig.json
+2024-04-03 01:01:18.367 - HotkeysConfig load finished: C:\Users\Aureliony\Documents\ShareX\HotkeysConfig.json
+2024-04-03 01:01:19.195 - MainForm init finished.
+2024-04-03 01:01:19.335 - Startup time: 1837 ms
+2024-04-03 01:01:19.339 - CommandLine: -silent
+2024-04-03 01:01:19.357 - Hotkey registered: Hotkey: Print Screen, Description: Capture region, Job: RectangleRegion
+2024-04-03 01:01:19.357 - Hotkey registered: Hotkey: Ctrl + Print Screen, Description: Start/Stop screen recording (GIF), Job: ScreenRecorderGIF
+2024-04-03 01:01:19.359 - HotkeyManager started.
+2024-04-03 01:01:19.359 - WatchFolderManager started.
+2024-04-03 01:02:07.225 - Hotkey triggered. Hotkey: Print Screen, Description: Capture region, Job: RectangleRegion
+2024-04-03 01:02:07.229 - Executing: Capture region
+2024-04-03 01:02:13.133 - Hotkey triggered. Hotkey: Print Screen, Description: Capture region, Job: RectangleRegion
+2024-04-03 01:02:13.133 - Executing: Capture region
+2024-04-03 01:02:13.812 - Task in queue. Job: Job, Type: Image, Host: 
+2024-04-03 01:02:13.848 - Task status: Preparing
+2024-04-03 01:02:13.884 - Image copied to clipboard.
+2024-04-03 01:02:13.899 - Image saved to file: C:\Users\Aureliony\Documents\ShareX\Screenshots\WindowsTerminal_PtfH2Lb1k9.png
+2024-04-03 01:02:13.913 - Task completed. File name: WindowsTerminal_PtfH2Lb1k9.png, Duration: 62 ms
+2024-04-03 01:03:48.383 - Hotkey triggered. Hotkey: Print Screen, Description: Capture region, Job: RectangleRegion
+2024-04-03 01:03:48.383 - Executing: Capture region
+2024-04-03 01:03:50.691 - Hotkey triggered. Hotkey: Print Screen, Description: Capture region, Job: RectangleRegion
+2024-04-03 01:03:50.691 - Executing: Capture region
+2024-04-03 01:04:37.548 - ShareX closing.
+2024-04-03 01:04:37.550 - ApplicationConfig save started: C:\Users\Aureliony\Documents\ShareX\ApplicationConfig.json
+2024-04-03 01:04:37.736 - ApplicationConfig save successful: C:\Users\Aureliony\Documents\ShareX\ApplicationConfig.json
+2024-04-03 01:04:37.737 - UploadersConfig save started: C:\Users\Aureliony\Documents\ShareX\UploadersConfig.json
+2024-04-03 01:04:37.790 - UploadersConfig save successful: C:\Users\Aureliony\Documents\ShareX\UploadersConfig.json
+2024-04-03 01:04:37.790 - HotkeysConfig save started: C:\Users\Aureliony\Documents\ShareX\HotkeysConfig.json
+2024-04-03 01:04:37.866 - HotkeysConfig save successful: C:\Users\Aureliony\Documents\ShareX\HotkeysConfig.json
+2024-04-03 01:04:37.866 - ShareX closed.
+2024-04-03 01:05:18.060 - ShareX starting.
+2024-04-03 01:05:18.066 - Version: 15.0
+2024-04-03 01:05:18.066 - Build: Release
+2024-04-03 01:05:18.066 - Command line: "C:\Program Files\ShareX\ShareX.exe" -silent
+2024-04-03 01:05:18.067 - Personal path: C:\Users\Aureliony\Documents\ShareX
+2024-04-03 01:05:18.067 - Operating system: Windows 10 Pro (64-bit)
+2024-04-03 01:05:18.067 - Running as elevated process: True
+2024-04-03 01:05:18.093 - Flags: SilentRun
+2024-04-03 01:05:18.109 - ApplicationConfig load started: C:\Users\Aureliony\Documents\ShareX\ApplicationConfig.json
+2024-04-03 01:05:18.540 - ApplicationConfig load finished: C:\Users\Aureliony\Documents\ShareX\ApplicationConfig.json
+2024-04-03 01:05:18.544 - UploadersConfig load started: C:\Users\Aureliony\Documents\ShareX\UploadersConfig.json
+2024-04-03 01:05:18.564 - MainForm init started.
+2024-04-03 01:05:18.632 - UploadersConfig load finished: C:\Users\Aureliony\Documents\ShareX\UploadersConfig.json
+2024-04-03 01:05:18.634 - HotkeysConfig load started: C:\Users\Aureliony\Documents\ShareX\HotkeysConfig.json
+2024-04-03 01:05:18.747 - HotkeysConfig load finished: C:\Users\Aureliony\Documents\ShareX\HotkeysConfig.json
+2024-04-03 01:05:19.509 - MainForm init finished.
+2024-04-03 01:05:19.652 - Startup time: 1737 ms
+2024-04-03 01:05:19.655 - CommandLine: -silent
+2024-04-03 01:05:19.673 - Hotkey registered: Hotkey: Print Screen, Description: Capture region, Job: RectangleRegion
+2024-04-03 01:05:19.673 - Hotkey registered: Hotkey: Ctrl + Print Screen, Description: Start/Stop screen recording (GIF), Job: ScreenRecorderGIF
+2024-04-03 01:05:19.674 - HotkeyManager started.
+2024-04-03 01:05:19.675 - WatchFolderManager started.
+2024-04-03 01:05:55.679 - ShareX closing.
+2024-04-03 01:05:55.681 - ApplicationConfig save started: C:\Users\Aureliony\Documents\ShareX\ApplicationConfig.json
+2024-04-03 01:05:55.860 - ApplicationConfig save successful: C:\Users\Aureliony\Documents\ShareX\ApplicationConfig.json
+2024-04-03 01:05:55.861 - UploadersConfig save started: C:\Users\Aureliony\Documents\ShareX\UploadersConfig.json
+2024-04-03 01:05:55.914 - UploadersConfig save successful: C:\Users\Aureliony\Documents\ShareX\UploadersConfig.json
+2024-04-03 01:05:55.914 - HotkeysConfig save started: C:\Users\Aureliony\Documents\ShareX\HotkeysConfig.json
+2024-04-03 01:05:55.990 - HotkeysConfig save successful: C:\Users\Aureliony\Documents\ShareX\HotkeysConfig.json
+2024-04-03 01:05:55.990 - ShareX closed.
+2024-04-03 01:06:17.664 - ShareX starting.
+2024-04-03 01:06:17.675 - Version: 15.0
+2024-04-03 01:06:17.675 - Build: Release
+2024-04-03 01:06:17.675 - Command line: "C:\Program Files\ShareX\ShareX.exe" -silent
+2024-04-03 01:06:17.675 - Personal path: C:\Users\Aureliony\Documents\ShareX
+2024-04-03 01:06:17.675 - Operating system: Windows 10 Pro (64-bit)
+2024-04-03 01:06:17.676 - Running as elevated process: True
+2024-04-03 01:06:17.712 - Flags: SilentRun
+2024-04-03 01:06:17.727 - ApplicationConfig load started: C:\Users\Aureliony\Documents\ShareX\ApplicationConfig.json
+2024-04-03 01:06:18.224 - ApplicationConfig load finished: C:\Users\Aureliony\Documents\ShareX\ApplicationConfig.json
+2024-04-03 01:06:18.229 - UploadersConfig load started: C:\Users\Aureliony\Documents\ShareX\UploadersConfig.json
+2024-04-03 01:06:18.257 - MainForm init started.
+2024-04-03 01:06:18.332 - UploadersConfig load finished: C:\Users\Aureliony\Documents\ShareX\UploadersConfig.json
+2024-04-03 01:06:18.335 - HotkeysConfig load started: C:\Users\Aureliony\Documents\ShareX\HotkeysConfig.json
+2024-04-03 01:06:18.475 - HotkeysConfig load finished: C:\Users\Aureliony\Documents\ShareX\HotkeysConfig.json
+2024-04-03 01:06:19.932 - MainForm init finished.
+2024-04-03 01:06:20.158 - Startup time: 2711 ms
+2024-04-03 01:06:20.163 - CommandLine: -silent
+2024-04-03 01:06:20.196 - Hotkey registered: Hotkey: Print Screen, Description: Capture region, Job: RectangleRegion
+2024-04-03 01:06:20.198 - Hotkey registered: Hotkey: Ctrl + Print Screen, Description: Start/Stop screen recording (GIF), Job: ScreenRecorderGIF
+2024-04-03 01:06:20.201 - HotkeyManager started.
+2024-04-03 01:06:20.202 - WatchFolderManager started.
+2024-04-03 01:06:23.566 - ShareX closing.
+2024-04-03 01:06:23.569 - ApplicationConfig save started: C:\Users\Aureliony\Documents\ShareX\ApplicationConfig.json
+2024-04-03 01:06:23.791 - ApplicationConfig save successful: C:\Users\Aureliony\Documents\ShareX\ApplicationConfig.json
+2024-04-03 01:06:23.792 - UploadersConfig save started: C:\Users\Aureliony\Documents\ShareX\UploadersConfig.json
+2024-04-03 01:06:23.842 - UploadersConfig save successful: C:\Users\Aureliony\Documents\ShareX\UploadersConfig.json
+2024-04-03 01:06:23.842 - HotkeysConfig save started: C:\Users\Aureliony\Documents\ShareX\HotkeysConfig.json
+2024-04-03 01:06:23.928 - HotkeysConfig save successful: C:\Users\Aureliony\Documents\ShareX\HotkeysConfig.json
+2024-04-03 01:06:23.928 - ShareX closed.
+2024-04-03 01:06:52.706 - ShareX starting.
+2024-04-03 01:06:52.713 - Version: 15.0
+2024-04-03 01:06:52.713 - Build: Release
+2024-04-03 01:06:52.713 - Command line: "C:\Program Files\ShareX\ShareX.exe" -silent
+2024-04-03 01:06:52.713 - Personal path: C:\Users\Aureliony\Documents\ShareX
+2024-04-03 01:06:52.713 - Operating system: Windows 10 Pro (64-bit)
+2024-04-03 01:06:52.714 - Running as elevated process: True
+2024-04-03 01:06:52.739 - Flags: SilentRun
+2024-04-03 01:06:52.752 - ApplicationConfig load started: C:\Users\Aureliony\Documents\ShareX\ApplicationConfig.json
+2024-04-03 01:06:53.182 - ApplicationConfig load finished: C:\Users\Aureliony\Documents\ShareX\ApplicationConfig.json
+2024-04-03 01:06:53.186 - UploadersConfig load started: C:\Users\Aureliony\Documents\ShareX\UploadersConfig.json
+2024-04-03 01:06:53.207 - MainForm init started.
+2024-04-03 01:06:53.275 - UploadersConfig load finished: C:\Users\Aureliony\Documents\ShareX\UploadersConfig.json
+2024-04-03 01:06:53.278 - HotkeysConfig load started: C:\Users\Aureliony\Documents\ShareX\HotkeysConfig.json
+2024-04-03 01:06:53.394 - HotkeysConfig load finished: C:\Users\Aureliony\Documents\ShareX\HotkeysConfig.json
+2024-04-03 01:06:53.868 - MainForm init finished.
+2024-04-03 01:06:53.988 - Startup time: 1429 ms
+2024-04-03 01:06:53.991 - CommandLine: -silent
+2024-04-03 01:06:54.008 - Hotkey registered: Hotkey: Print Screen, Description: Capture region, Job: RectangleRegion
+2024-04-03 01:06:54.008 - Hotkey registered: Hotkey: Ctrl + Print Screen, Description: Start/Stop screen recording (GIF), Job: ScreenRecorderGIF
+2024-04-03 01:06:54.009 - HotkeyManager started.
+2024-04-03 01:06:54.010 - WatchFolderManager started.
+2024-04-03 01:25:35.768 - ShareX closing.
+2024-04-03 01:25:35.770 - ApplicationConfig save started: C:\Users\Aureliony\Documents\ShareX\ApplicationConfig.json
+2024-04-03 01:25:35.989 - ApplicationConfig save successful: C:\Users\Aureliony\Documents\ShareX\ApplicationConfig.json
+2024-04-03 01:25:35.989 - UploadersConfig save started: C:\Users\Aureliony\Documents\ShareX\UploadersConfig.json
+2024-04-03 01:25:36.037 - UploadersConfig save successful: C:\Users\Aureliony\Documents\ShareX\UploadersConfig.json
+2024-04-03 01:25:36.037 - HotkeysConfig save started: C:\Users\Aureliony\Documents\ShareX\HotkeysConfig.json
+2024-04-03 01:25:36.121 - HotkeysConfig save successful: C:\Users\Aureliony\Documents\ShareX\HotkeysConfig.json
+2024-04-03 01:25:36.122 - ShareX closed.
+2024-04-03 01:26:30.172 - ShareX starting.
+2024-04-03 01:26:30.182 - Version: 15.0
+2024-04-03 01:26:30.182 - Build: Release
+2024-04-03 01:26:30.182 - Command line: "C:\Program Files\ShareX\ShareX.exe" -silent
+2024-04-03 01:26:30.182 - Personal path: C:\Users\Aureliony\Documents\ShareX
+2024-04-03 01:26:30.183 - Operating system: Windows 10 Pro (64-bit)
+2024-04-03 01:26:30.183 - Running as elevated process: True
+2024-04-03 01:26:30.214 - Flags: SilentRun
+2024-04-03 01:26:30.240 - ApplicationConfig load started: C:\Users\Aureliony\Documents\ShareX\ApplicationConfig.json
+2024-04-03 01:26:30.801 - ApplicationConfig load finished: C:\Users\Aureliony\Documents\ShareX\ApplicationConfig.json
+2024-04-03 01:26:30.810 - UploadersConfig load started: C:\Users\Aureliony\Documents\ShareX\UploadersConfig.json
+2024-04-03 01:26:30.826 - MainForm init started.
+2024-04-03 01:26:30.905 - UploadersConfig load finished: C:\Users\Aureliony\Documents\ShareX\UploadersConfig.json
+2024-04-03 01:26:30.913 - HotkeysConfig load started: C:\Users\Aureliony\Documents\ShareX\HotkeysConfig.json
+2024-04-03 01:26:31.036 - HotkeysConfig load finished: C:\Users\Aureliony\Documents\ShareX\HotkeysConfig.json
+2024-04-03 01:26:31.561 - MainForm init finished.
+2024-04-03 01:26:31.693 - Startup time: 1692 ms
+2024-04-03 01:26:31.697 - CommandLine: -silent
+2024-04-03 01:26:31.713 - Hotkey registered: Hotkey: Print Screen, Description: Capture region, Job: RectangleRegion
+2024-04-03 01:26:31.713 - Hotkey registered: Hotkey: Ctrl + Print Screen, Description: Start/Stop screen recording (GIF), Job: ScreenRecorderGIF
+2024-04-03 01:26:31.714 - HotkeyManager started.
+2024-04-03 01:26:31.714 - WatchFolderManager started.
+2024-04-03 02:29:35.047 - Hotkey triggered. Hotkey: Print Screen, Description: Capture region, Job: RectangleRegion
+2024-04-03 02:29:35.051 - Executing: Capture region
+2024-04-03 02:29:36.041 - Task in queue. Job: Job, Type: Image, Host: 
+2024-04-03 02:29:36.075 - Task status: Preparing
+2024-04-03 02:29:36.105 - Image copied to clipboard.
+2024-04-03 02:29:36.117 - Image saved to file: C:\Users\Aureliony\Documents\ShareX\Screenshots\java_Vl14EstnIm.png
+2024-04-03 02:29:36.127 - Task completed. File name: java_Vl14EstnIm.png, Duration: 50 ms
+2024-04-03 02:29:48.692 - Hotkey triggered. Hotkey: Print Screen, Description: Capture region, Job: RectangleRegion
+2024-04-03 02:29:48.692 - Executing: Capture region
+2024-04-03 02:29:49.242 - Task in queue. Job: Job, Type: Image, Host: 
+2024-04-03 02:29:49.245 - Task status: Preparing
+2024-04-03 02:29:49.256 - Image copied to clipboard.
+2024-04-03 02:29:49.261 - Image saved to file: C:\Users\Aureliony\Documents\ShareX\Screenshots\java_prBBzWKMye.png
+2024-04-03 02:29:49.265 - Task completed. File name: java_prBBzWKMye.png, Duration: 20 ms
+2024-04-03 03:20:14.356 - Hotkey triggered. Hotkey: Print Screen, Description: Capture region, Job: RectangleRegion
+2024-04-03 03:20:14.356 - Executing: Capture region
+2024-04-03 03:20:15.448 - Task in queue. Job: Job, Type: Image, Host: 
+2024-04-03 03:20:15.452 - Task status: Preparing
+2024-04-03 03:20:15.461 - Image copied to clipboard.
+2024-04-03 03:20:15.467 - Image saved to file: C:\Users\Aureliony\Documents\ShareX\Screenshots\java_oVN3RYQqAR.png
+2024-04-03 03:20:15.472 - Task completed. File name: java_oVN3RYQqAR.png, Duration: 20 ms
+2024-04-03 03:20:43.408 - Hotkey triggered. Hotkey: Print Screen, Description: Capture region, Job: RectangleRegion
+2024-04-03 03:20:43.408 - Executing: Capture region
+2024-04-03 03:20:44.721 - Task in queue. Job: Job, Type: Image, Host: 
+2024-04-03 03:20:44.725 - Task status: Preparing
+2024-04-03 03:20:44.734 - Image copied to clipboard.
+2024-04-03 03:20:44.739 - Image saved to file: C:\Users\Aureliony\Documents\ShareX\Screenshots\java_34OwkDCMdj.png
+2024-04-03 03:20:44.744 - Task completed. File name: java_34OwkDCMdj.png, Duration: 19 ms
+2024-04-03 04:00:04.543 - Hotkey triggered. Hotkey: Print Screen, Description: Capture region, Job: RectangleRegion
+2024-04-03 04:00:04.543 - Executing: Capture region
+2024-04-03 04:00:29.529 - Hotkey triggered. Hotkey: Print Screen, Description: Capture region, Job: RectangleRegion
+2024-04-03 04:00:29.529 - Executing: Capture region
+2024-04-03 04:07:54.617 - ShareX closing.
+2024-04-03 04:07:54.621 - ApplicationConfig save started: C:\Users\Aureliony\Documents\ShareX\ApplicationConfig.json
+2024-04-03 04:07:54.832 - ApplicationConfig save successful: C:\Users\Aureliony\Documents\ShareX\ApplicationConfig.json
+2024-04-03 04:07:54.833 - UploadersConfig save started: C:\Users\Aureliony\Documents\ShareX\UploadersConfig.json
+2024-04-03 04:07:54.883 - UploadersConfig save successful: C:\Users\Aureliony\Documents\ShareX\UploadersConfig.json
+2024-04-03 04:07:54.883 - HotkeysConfig save started: C:\Users\Aureliony\Documents\ShareX\HotkeysConfig.json
+2024-04-03 04:07:54.962 - HotkeysConfig save successful: C:\Users\Aureliony\Documents\ShareX\HotkeysConfig.json
+2024-04-03 04:07:54.962 - ShareX closed.
+2024-04-03 12:08:00.769 - ShareX starting.
+2024-04-03 12:08:00.781 - Version: 15.0
+2024-04-03 12:08:00.781 - Build: Release
+2024-04-03 12:08:00.782 - Command line: "C:\Program Files\ShareX\ShareX.exe" -silent
+2024-04-03 12:08:00.782 - Personal path: C:\Users\Aureliony\Documents\ShareX
+2024-04-03 12:08:00.782 - Operating system: Windows 10 Pro (64-bit)
+2024-04-03 12:08:00.782 - Running as elevated process: True
+2024-04-03 12:08:00.816 - Flags: SilentRun
+2024-04-03 12:08:00.847 - ApplicationConfig load started: C:\Users\Aureliony\Documents\ShareX\ApplicationConfig.json
+2024-04-03 12:08:01.497 - ApplicationConfig load finished: C:\Users\Aureliony\Documents\ShareX\ApplicationConfig.json
+2024-04-03 12:08:01.507 - UploadersConfig load started: C:\Users\Aureliony\Documents\ShareX\UploadersConfig.json
+2024-04-03 12:08:01.529 - MainForm init started.
+2024-04-03 12:08:01.628 - UploadersConfig load finished: C:\Users\Aureliony\Documents\ShareX\UploadersConfig.json
+2024-04-03 12:08:01.636 - HotkeysConfig load started: C:\Users\Aureliony\Documents\ShareX\HotkeysConfig.json
+2024-04-03 12:08:01.796 - HotkeysConfig load finished: C:\Users\Aureliony\Documents\ShareX\HotkeysConfig.json
+2024-04-03 12:08:02.390 - MainForm init finished.
+2024-04-03 12:08:02.522 - Startup time: 1956 ms
+2024-04-03 12:08:02.526 - CommandLine: -silent
+2024-04-03 12:08:02.544 - Hotkey registered: Hotkey: Print Screen, Description: Capture region, Job: RectangleRegion
+2024-04-03 12:08:02.544 - Hotkey registered: Hotkey: Ctrl + Print Screen, Description: Start/Stop screen recording (GIF), Job: ScreenRecorderGIF
+2024-04-03 12:08:02.546 - HotkeyManager started.
+2024-04-03 12:08:02.547 - WatchFolderManager started.
+2024-04-03 16:26:11.930 - Hotkey triggered. Hotkey: Print Screen, Description: Capture region, Job: RectangleRegion
+2024-04-03 16:26:11.934 - Executing: Capture region
+2024-04-03 16:26:50.908 - Hotkey triggered. Hotkey: Print Screen, Description: Capture region, Job: RectangleRegion
+2024-04-03 16:26:50.908 - Executing: Capture region
+2024-04-03 16:26:53.639 - Hotkey triggered. Hotkey: Print Screen, Description: Capture region, Job: RectangleRegion
+2024-04-03 16:26:53.639 - Executing: Capture region
+2024-04-03 18:52:36.410 - Hotkey triggered. Hotkey: Print Screen, Description: Capture region, Job: RectangleRegion
+2024-04-03 18:52:36.410 - Executing: Capture region
+2024-04-03 18:52:39.439 - Task in queue. Job: Job, Type: Image, Host: 
+2024-04-03 18:52:39.486 - Task status: Preparing
+2024-04-03 18:52:39.524 - Image copied to clipboard.
+2024-04-03 18:52:39.542 - Image saved to file: C:\Users\Aureliony\Documents\ShareX\Screenshots\idea64_S5CP2Hq6E9.png
+2024-04-03 18:52:39.555 - Task completed. File name: idea64_S5CP2Hq6E9.png, Duration: 67 ms
+2024-04-03 18:53:49.200 - Hotkey triggered. Hotkey: Print Screen, Description: Capture region, Job: RectangleRegion
+2024-04-03 18:53:49.200 - Executing: Capture region
+2024-04-03 18:53:50.888 - Task in queue. Job: Job, Type: Image, Host: 
+2024-04-03 18:53:50.892 - Task status: Preparing
+2024-04-03 18:53:50.906 - Image copied to clipboard.
+2024-04-03 18:53:50.915 - Image saved to file: C:\Users\Aureliony\Documents\ShareX\Screenshots\idea64_RFDvnRiwkp.png
+2024-04-03 18:53:50.922 - Task completed. File name: idea64_RFDvnRiwkp.png, Duration: 30 ms
+2024-04-03 19:13:57.408 - Hotkey triggered. Hotkey: Print Screen, Description: Capture region, Job: RectangleRegion
+2024-04-03 19:13:57.408 - Executing: Capture region
+2024-04-03 19:13:59.207 - Task in queue. Job: Job, Type: Image, Host: 
+2024-04-03 19:13:59.211 - Task status: Preparing
+2024-04-03 19:13:59.216 - Image copied to clipboard.
+2024-04-03 19:13:59.219 - Image saved to file: C:\Users\Aureliony\Documents\ShareX\Screenshots\idea64_8ZiH3qXu5L.png
+2024-04-03 19:13:59.222 - Task completed. File name: idea64_8ZiH3qXu5L.png, Duration: 11 ms
+2024-04-03 19:50:38.254 - Hotkey triggered. Hotkey: Print Screen, Description: Capture region, Job: RectangleRegion
+2024-04-03 19:50:38.254 - Executing: Capture region
+2024-04-03 19:50:40.361 - Task in queue. Job: Job, Type: Image, Host: 
+2024-04-03 19:50:40.364 - Task status: Preparing
+2024-04-03 19:50:40.376 - Image copied to clipboard.
+2024-04-03 19:50:40.383 - Image saved to file: C:\Users\Aureliony\Documents\ShareX\Screenshots\idea64_dee2AYEkXz.png
+2024-04-03 19:50:40.388 - Task completed. File name: idea64_dee2AYEkXz.png, Duration: 24 ms
+2024-04-03 20:05:29.203 - Hotkey triggered. Hotkey: Print Screen, Description: Capture region, Job: RectangleRegion
+2024-04-03 20:05:29.203 - Executing: Capture region
+2024-04-03 20:05:31.761 - Task in queue. Job: Job, Type: Image, Host: 
+2024-04-03 20:05:31.765 - Task status: Preparing
+2024-04-03 20:05:31.780 - Image copied to clipboard.
+2024-04-03 20:05:31.790 - Image saved to file: C:\Users\Aureliony\Documents\ShareX\Screenshots\idea64_W74ORkHgLv.png
+2024-04-03 20:05:31.797 - Task completed. File name: idea64_W74ORkHgLv.png, Duration: 32 ms
+2024-04-03 20:37:45.734 - Hotkey triggered. Hotkey: Print Screen, Description: Capture region, Job: RectangleRegion
+2024-04-03 20:37:45.734 - Executing: Capture region
+2024-04-03 20:37:48.813 - Task in queue. Job: Job, Type: Image, Host: 
+2024-04-03 20:37:48.817 - Task status: Preparing
+2024-04-03 20:37:48.830 - Image copied to clipboard.
+2024-04-03 20:37:48.839 - Image saved to file: C:\Users\Aureliony\Documents\ShareX\Screenshots\chrome_6vLx7enwDH.png
+2024-04-03 20:37:48.842 - Task completed. File name: chrome_6vLx7enwDH.png, Duration: 25 ms
+2024-04-03 22:31:22.913 - Hotkey triggered. Hotkey: Print Screen, Description: Capture region, Job: RectangleRegion
+2024-04-03 22:31:22.913 - Executing: Capture region
+2024-04-03 22:31:30.876 - Task in queue. Job: Job, Type: Image, Host: 
+2024-04-03 22:31:30.880 - Task status: Preparing
+2024-04-03 22:31:30.947 - Image copied to clipboard.
+2024-04-03 22:31:30.996 - Image saved to file: C:\Users\Aureliony\Documents\ShareX\Screenshots\chrome_vNcYO0HlwH.png
+2024-04-03 22:31:31.016 - Task completed. File name: chrome_vNcYO0HlwH.png, Duration: 135 ms
+2024-04-03 22:33:11.398 - Hotkey triggered. Hotkey: Print Screen, Description: Capture region, Job: RectangleRegion
+2024-04-03 22:33:11.398 - Executing: Capture region
+2024-04-03 22:33:15.749 - Task in queue. Job: Job, Type: Image, Host: 
+2024-04-03 22:33:15.752 - Task status: Preparing
+2024-04-03 22:33:15.818 - Image copied to clipboard.
+2024-04-03 22:33:15.876 - Image saved to file: C:\Users\Aureliony\Documents\ShareX\Screenshots\chrome_v04nxWS8NY.png
+2024-04-03 22:33:15.893 - Task completed. File name: chrome_v04nxWS8NY.png, Duration: 141 ms
+2024-04-03 22:33:53.297 - Hotkey triggered. Hotkey: Print Screen, Description: Capture region, Job: RectangleRegion
+2024-04-03 22:33:53.297 - Executing: Capture region
+2024-04-03 22:33:58.984 - Task in queue. Job: Job, Type: Image, Host: 
+2024-04-03 22:33:58.992 - Task status: Preparing
+2024-04-03 22:33:59.046 - Image copied to clipboard.
+2024-04-03 22:33:59.089 - Image saved to file: C:\Users\Aureliony\Documents\ShareX\Screenshots\chrome_PVIOa2JNRS.png
+2024-04-03 22:33:59.106 - Task completed. File name: chrome_PVIOa2JNRS.png, Duration: 114 ms
+2024-04-04 00:38:53.208 - Hotkey triggered. Hotkey: Print Screen, Description: Capture region, Job: RectangleRegion
+2024-04-04 00:38:53.208 - Executing: Capture region
+2024-04-04 00:58:34.876 - Hotkey triggered. Hotkey: Print Screen, Description: Capture region, Job: RectangleRegion
+2024-04-04 00:58:34.876 - Executing: Capture region
+2024-04-04 00:58:37.117 - Task in queue. Job: Job, Type: Image, Host: 
+2024-04-04 00:58:37.121 - Task status: Preparing
+2024-04-04 00:58:37.128 - Image copied to clipboard.
+2024-04-04 00:58:37.134 - Image saved to file: C:\Users\Aureliony\Documents\ShareX\Screenshots\chrome_rCT4JqZoW7.png
+2024-04-04 00:58:37.137 - Task completed. File name: chrome_rCT4JqZoW7.png, Duration: 16 ms
+2024-04-04 01:06:45.766 - Hotkey triggered. Hotkey: Print Screen, Description: Capture region, Job: RectangleRegion
+2024-04-04 01:06:45.766 - Executing: Capture region
+2024-04-04 01:22:16.695 - Hotkey triggered. Hotkey: Print Screen, Description: Capture region, Job: RectangleRegion
+2024-04-04 01:22:16.695 - Executing: Capture region
+2024-04-04 01:22:18.977 - Task in queue. Job: Job, Type: Image, Host: 
+2024-04-04 01:22:18.981 - Task status: Preparing
+2024-04-04 01:22:19.009 - Image copied to clipboard.
+2024-04-04 01:22:19.024 - Image saved to file: C:\Users\Aureliony\Documents\ShareX\Screenshots\chrome_WjPqVtm4aE.png
+2024-04-04 01:22:19.037 - Task completed. File name: chrome_WjPqVtm4aE.png, Duration: 55 ms
+2024-04-04 02:17:46.409 - Hotkey triggered. Hotkey: Print Screen, Description: Capture region, Job: RectangleRegion
+2024-04-04 02:17:46.409 - Executing: Capture region
+2024-04-04 02:17:47.203 - Task in queue. Job: Job, Type: Image, Host: 
+2024-04-04 02:17:47.206 - Task status: Preparing
+2024-04-04 02:17:47.219 - Image copied to clipboard.
+2024-04-04 02:17:47.228 - Image saved to file: C:\Users\Aureliony\Documents\ShareX\Screenshots\java_LlKfO6Cnzj.png
+2024-04-04 02:17:47.236 - Task completed. File name: java_LlKfO6Cnzj.png, Duration: 29 ms
+2024-04-04 02:25:16.729 - Hotkey triggered. Hotkey: Print Screen, Description: Capture region, Job: RectangleRegion
+2024-04-04 02:25:16.729 - Executing: Capture region
+2024-04-04 02:27:24.824 - Hotkey triggered. Hotkey: Print Screen, Description: Capture region, Job: RectangleRegion
+2024-04-04 02:27:24.824 - Executing: Capture region
+2024-04-04 02:27:41.868 - Hotkey triggered. Hotkey: Print Screen, Description: Capture region, Job: RectangleRegion
+2024-04-04 02:27:41.868 - Executing: Capture region
+2024-04-04 02:42:15.526 - Hotkey triggered. Hotkey: Print Screen, Description: Capture region, Job: RectangleRegion
+2024-04-04 02:42:15.526 - Executing: Capture region
+2024-04-04 02:42:52.232 - Hotkey triggered. Hotkey: Print Screen, Description: Capture region, Job: RectangleRegion
+2024-04-04 02:42:52.232 - Executing: Capture region
+2024-04-04 02:44:43.600 - ShareX closing.
+2024-04-04 02:44:43.603 - ApplicationConfig save started: C:\Users\Aureliony\Documents\ShareX\ApplicationConfig.json
+2024-04-04 02:44:43.804 - ApplicationConfig save successful: C:\Users\Aureliony\Documents\ShareX\ApplicationConfig.json
+2024-04-04 02:44:43.804 - UploadersConfig save started: C:\Users\Aureliony\Documents\ShareX\UploadersConfig.json
+2024-04-04 02:44:43.863 - UploadersConfig save successful: C:\Users\Aureliony\Documents\ShareX\UploadersConfig.json
+2024-04-04 02:44:43.863 - HotkeysConfig save started: C:\Users\Aureliony\Documents\ShareX\HotkeysConfig.json
+2024-04-04 02:44:43.955 - HotkeysConfig save successful: C:\Users\Aureliony\Documents\ShareX\HotkeysConfig.json
+2024-04-04 02:44:43.955 - ShareX closed.
+2024-04-04 02:45:08.115 - ShareX starting.
+2024-04-04 02:45:08.122 - Version: 15.0
+2024-04-04 02:45:08.122 - Build: Release
+2024-04-04 02:45:08.122 - Command line: "C:\Program Files\ShareX\ShareX.exe" -silent
+2024-04-04 02:45:08.122 - Personal path: C:\Users\Aureliony\Documents\ShareX
+2024-04-04 02:45:08.122 - Operating system: Windows 10 Pro (64-bit)
+2024-04-04 02:45:08.123 - Running as elevated process: True
+2024-04-04 02:45:08.148 - Flags: SilentRun
+2024-04-04 02:45:08.165 - ApplicationConfig load started: C:\Users\Aureliony\Documents\ShareX\ApplicationConfig.json
+2024-04-04 02:45:08.627 - ApplicationConfig load finished: C:\Users\Aureliony\Documents\ShareX\ApplicationConfig.json
+2024-04-04 02:45:08.634 - UploadersConfig load started: C:\Users\Aureliony\Documents\ShareX\UploadersConfig.json
+2024-04-04 02:45:08.652 - MainForm init started.
+2024-04-04 02:45:08.729 - UploadersConfig load finished: C:\Users\Aureliony\Documents\ShareX\UploadersConfig.json
+2024-04-04 02:45:08.736 - HotkeysConfig load started: C:\Users\Aureliony\Documents\ShareX\HotkeysConfig.json
+2024-04-04 02:45:08.864 - HotkeysConfig load finished: C:\Users\Aureliony\Documents\ShareX\HotkeysConfig.json
+2024-04-04 02:45:09.624 - MainForm init finished.
+2024-04-04 02:45:09.770 - Startup time: 1810 ms
+2024-04-04 02:45:09.774 - CommandLine: -silent
+2024-04-04 02:45:09.790 - Hotkey registered: Hotkey: Print Screen, Description: Capture region, Job: RectangleRegion
+2024-04-04 02:45:09.790 - Hotkey registered: Hotkey: Ctrl + Print Screen, Description: Start/Stop screen recording (GIF), Job: ScreenRecorderGIF
+2024-04-04 02:45:09.791 - HotkeyManager started.
+2024-04-04 02:45:09.791 - WatchFolderManager started.
+2024-04-04 02:46:01.653 - ShareX closing.
+2024-04-04 02:46:01.655 - ApplicationConfig save started: C:\Users\Aureliony\Documents\ShareX\ApplicationConfig.json
+2024-04-04 02:46:01.845 - ApplicationConfig save successful: C:\Users\Aureliony\Documents\ShareX\ApplicationConfig.json
+2024-04-04 02:46:01.845 - UploadersConfig save started: C:\Users\Aureliony\Documents\ShareX\UploadersConfig.json
+2024-04-04 02:46:01.898 - UploadersConfig save successful: C:\Users\Aureliony\Documents\ShareX\UploadersConfig.json
+2024-04-04 02:46:01.898 - HotkeysConfig save started: C:\Users\Aureliony\Documents\ShareX\HotkeysConfig.json
+2024-04-04 02:46:01.973 - HotkeysConfig save successful: C:\Users\Aureliony\Documents\ShareX\HotkeysConfig.json
+2024-04-04 02:46:01.973 - ShareX closed.
+2024-04-04 02:46:30.737 - ShareX starting.
+2024-04-04 02:46:30.744 - Version: 15.0
+2024-04-04 02:46:30.744 - Build: Release
+2024-04-04 02:46:30.744 - Command line: "C:\Program Files\ShareX\ShareX.exe" -silent
+2024-04-04 02:46:30.745 - Personal path: C:\Users\Aureliony\Documents\ShareX
+2024-04-04 02:46:30.745 - Operating system: Windows 10 Pro (64-bit)
+2024-04-04 02:46:30.745 - Running as elevated process: True
+2024-04-04 02:46:30.779 - Flags: SilentRun
+2024-04-04 02:46:30.792 - ApplicationConfig load started: C:\Users\Aureliony\Documents\ShareX\ApplicationConfig.json
+2024-04-04 02:46:31.231 - ApplicationConfig load finished: C:\Users\Aureliony\Documents\ShareX\ApplicationConfig.json
+2024-04-04 02:46:31.234 - UploadersConfig load started: C:\Users\Aureliony\Documents\ShareX\UploadersConfig.json
+2024-04-04 02:46:31.256 - MainForm init started.
+2024-04-04 02:46:31.326 - UploadersConfig load finished: C:\Users\Aureliony\Documents\ShareX\UploadersConfig.json
+2024-04-04 02:46:31.329 - HotkeysConfig load started: C:\Users\Aureliony\Documents\ShareX\HotkeysConfig.json
+2024-04-04 02:46:31.454 - HotkeysConfig load finished: C:\Users\Aureliony\Documents\ShareX\HotkeysConfig.json
+2024-04-04 02:46:31.965 - MainForm init finished.
+2024-04-04 02:46:32.077 - Startup time: 1494 ms
+2024-04-04 02:46:32.081 - CommandLine: -silent
+2024-04-04 02:46:32.096 - Hotkey registered: Hotkey: Print Screen, Description: Capture region, Job: RectangleRegion
+2024-04-04 02:46:32.096 - Hotkey registered: Hotkey: Ctrl + Print Screen, Description: Start/Stop screen recording (GIF), Job: ScreenRecorderGIF
+2024-04-04 02:46:32.097 - HotkeyManager started.
+2024-04-04 02:46:32.098 - WatchFolderManager started.
+2024-04-04 02:48:06.071 - Hotkey triggered. Hotkey: Print Screen, Description: Capture region, Job: RectangleRegion
+2024-04-04 02:48:06.075 - Executing: Capture region
+2024-04-04 02:49:04.246 - Hotkey triggered. Hotkey: Print Screen, Description: Capture region, Job: RectangleRegion
+2024-04-04 02:49:04.246 - Executing: Capture region
+2024-04-04 02:49:25.921 - ShareX closing.
+2024-04-04 02:49:25.925 - ApplicationConfig save started: C:\Users\Aureliony\Documents\ShareX\ApplicationConfig.json
+2024-04-04 02:49:26.132 - ApplicationConfig save successful: C:\Users\Aureliony\Documents\ShareX\ApplicationConfig.json
+2024-04-04 02:49:26.132 - UploadersConfig save started: C:\Users\Aureliony\Documents\ShareX\UploadersConfig.json
+2024-04-04 02:49:26.185 - UploadersConfig save successful: C:\Users\Aureliony\Documents\ShareX\UploadersConfig.json
+2024-04-04 02:49:26.185 - HotkeysConfig save started: C:\Users\Aureliony\Documents\ShareX\HotkeysConfig.json
+2024-04-04 02:49:26.261 - HotkeysConfig save successful: C:\Users\Aureliony\Documents\ShareX\HotkeysConfig.json
+2024-04-04 02:49:26.261 - ShareX closed.
+2024-04-04 02:49:56.635 - ShareX starting.
+2024-04-04 02:49:56.642 - Version: 15.0
+2024-04-04 02:49:56.642 - Build: Release
+2024-04-04 02:49:56.642 - Command line: "C:\Program Files\ShareX\ShareX.exe" -silent
+2024-04-04 02:49:56.642 - Personal path: C:\Users\Aureliony\Documents\ShareX
+2024-04-04 02:49:56.642 - Operating system: Windows 10 Pro (64-bit)
+2024-04-04 02:49:56.642 - Running as elevated process: True
+2024-04-04 02:49:56.668 - Flags: SilentRun
+2024-04-04 02:49:56.681 - ApplicationConfig load started: C:\Users\Aureliony\Documents\ShareX\ApplicationConfig.json
+2024-04-04 02:49:57.356 - ApplicationConfig load finished: C:\Users\Aureliony\Documents\ShareX\ApplicationConfig.json
+2024-04-04 02:49:57.360 - UploadersConfig load started: C:\Users\Aureliony\Documents\ShareX\UploadersConfig.json
+2024-04-04 02:49:57.380 - MainForm init started.
+2024-04-04 02:49:57.446 - UploadersConfig load finished: C:\Users\Aureliony\Documents\ShareX\UploadersConfig.json
+2024-04-04 02:49:57.449 - HotkeysConfig load started: C:\Users\Aureliony\Documents\ShareX\HotkeysConfig.json
+2024-04-04 02:49:57.570 - HotkeysConfig load finished: C:\Users\Aureliony\Documents\ShareX\HotkeysConfig.json
+2024-04-04 02:49:58.333 - MainForm init finished.
+2024-04-04 02:49:58.479 - Startup time: 1991 ms
+2024-04-04 02:49:58.483 - CommandLine: -silent
+2024-04-04 02:49:58.498 - Hotkey registered: Hotkey: Print Screen, Description: Capture region, Job: RectangleRegion
+2024-04-04 02:49:58.498 - Hotkey registered: Hotkey: Ctrl + Print Screen, Description: Start/Stop screen recording (GIF), Job: ScreenRecorderGIF
+2024-04-04 02:49:58.500 - HotkeyManager started.
+2024-04-04 02:49:58.500 - WatchFolderManager started.
+2024-04-04 02:50:30.956 - Hotkey triggered. Hotkey: Print Screen, Description: Capture region, Job: RectangleRegion
+2024-04-04 02:50:30.959 - Executing: Capture region
+2024-04-04 02:50:33.081 - Task in queue. Job: Job, Type: Image, Host: 
+2024-04-04 02:50:33.115 - Task status: Preparing
+2024-04-04 02:50:33.150 - Image copied to clipboard.
+2024-04-04 02:50:33.165 - Image saved to file: C:\Users\Aureliony\Documents\ShareX\Screenshots\java_zqsFhNXH3O.png
+2024-04-04 02:50:33.179 - Task completed. File name: java_zqsFhNXH3O.png, Duration: 61 ms
+2024-04-04 02:54:23.683 - Hotkey triggered. Hotkey: Print Screen, Description: Capture region, Job: RectangleRegion
+2024-04-04 02:54:23.683 - Executing: Capture region
+2024-04-04 02:55:56.348 - ShareX closing.
+2024-04-04 02:55:56.350 - ApplicationConfig save started: C:\Users\Aureliony\Documents\ShareX\ApplicationConfig.json
+2024-04-04 02:55:56.527 - ApplicationConfig save successful: C:\Users\Aureliony\Documents\ShareX\ApplicationConfig.json
+2024-04-04 02:55:56.527 - UploadersConfig save started: C:\Users\Aureliony\Documents\ShareX\UploadersConfig.json
+2024-04-04 02:55:56.573 - UploadersConfig save successful: C:\Users\Aureliony\Documents\ShareX\UploadersConfig.json
+2024-04-04 02:55:56.573 - HotkeysConfig save started: C:\Users\Aureliony\Documents\ShareX\HotkeysConfig.json
+2024-04-04 02:55:56.647 - HotkeysConfig save successful: C:\Users\Aureliony\Documents\ShareX\HotkeysConfig.json
+2024-04-04 02:55:56.647 - ShareX closed.
+2024-04-04 02:56:20.372 - ShareX starting.
+2024-04-04 02:56:20.379 - Version: 15.0
+2024-04-04 02:56:20.379 - Build: Release
+2024-04-04 02:56:20.379 - Command line: "C:\Program Files\ShareX\ShareX.exe" -silent
+2024-04-04 02:56:20.379 - Personal path: C:\Users\Aureliony\Documents\ShareX
+2024-04-04 02:56:20.379 - Operating system: Windows 10 Pro (64-bit)
+2024-04-04 02:56:20.380 - Running as elevated process: True
+2024-04-04 02:56:20.405 - Flags: SilentRun
+2024-04-04 02:56:20.417 - ApplicationConfig load started: C:\Users\Aureliony\Documents\ShareX\ApplicationConfig.json
+2024-04-04 02:56:20.846 - ApplicationConfig load finished: C:\Users\Aureliony\Documents\ShareX\ApplicationConfig.json
+2024-04-04 02:56:20.850 - UploadersConfig load started: C:\Users\Aureliony\Documents\ShareX\UploadersConfig.json
+2024-04-04 02:56:20.871 - MainForm init started.
+2024-04-04 02:56:20.941 - UploadersConfig load finished: C:\Users\Aureliony\Documents\ShareX\UploadersConfig.json
+2024-04-04 02:56:20.943 - HotkeysConfig load started: C:\Users\Aureliony\Documents\ShareX\HotkeysConfig.json
+2024-04-04 02:56:21.056 - HotkeysConfig load finished: C:\Users\Aureliony\Documents\ShareX\HotkeysConfig.json
+2024-04-04 02:56:21.516 - MainForm init finished.
+2024-04-04 02:56:21.628 - Startup time: 1401 ms
+2024-04-04 02:56:21.632 - CommandLine: -silent
+2024-04-04 02:56:21.647 - Hotkey registered: Hotkey: Print Screen, Description: Capture region, Job: RectangleRegion
+2024-04-04 02:56:21.647 - Hotkey registered: Hotkey: Ctrl + Print Screen, Description: Start/Stop screen recording (GIF), Job: ScreenRecorderGIF
+2024-04-04 02:56:21.648 - HotkeyManager started.
+2024-04-04 02:56:21.649 - WatchFolderManager started.
+2024-04-04 02:57:47.334 - Hotkey triggered. Hotkey: Print Screen, Description: Capture region, Job: RectangleRegion
+2024-04-04 02:57:47.338 - Executing: Capture region
+2024-04-04 02:58:09.285 - Hotkey triggered. Hotkey: Print Screen, Description: Capture region, Job: RectangleRegion
+2024-04-04 02:58:09.285 - Executing: Capture region
+2024-04-04 02:58:15.486 - Hotkey triggered. Hotkey: Print Screen, Description: Capture region, Job: RectangleRegion
+2024-04-04 02:58:15.486 - Executing: Capture region
+2024-04-04 02:58:37.363 - Hotkey triggered. Hotkey: Print Screen, Description: Capture region, Job: RectangleRegion
+2024-04-04 02:58:37.363 - Executing: Capture region
+2024-04-04 02:59:12.961 - Hotkey triggered. Hotkey: Print Screen, Description: Capture region, Job: RectangleRegion
+2024-04-04 02:59:12.961 - Executing: Capture region
+2024-04-04 03:09:31.769 - Hotkey triggered. Hotkey: Print Screen, Description: Capture region, Job: RectangleRegion
+2024-04-04 03:09:31.769 - Executing: Capture region
+2024-04-04 03:09:34.683 - Task in queue. Job: Job, Type: Image, Host: 
+2024-04-04 03:09:34.717 - Task status: Preparing
+2024-04-04 03:09:34.739 - Image copied to clipboard.
+2024-04-04 03:09:34.746 - Image saved to file: C:\Users\Aureliony\Documents\ShareX\Screenshots\java_qmv9mGkzI5.png
+2024-04-04 03:09:34.752 - Task completed. File name: java_qmv9mGkzI5.png, Duration: 34 ms
+2024-04-04 03:09:36.483 - Hotkey triggered. Hotkey: Print Screen, Description: Capture region, Job: RectangleRegion
+2024-04-04 03:09:36.484 - Executing: Capture region
+2024-04-04 03:13:17.815 - Hotkey triggered. Hotkey: Print Screen, Description: Capture region, Job: RectangleRegion
+2024-04-04 03:13:17.815 - Executing: Capture region
+2024-04-04 03:18:21.614 - Hotkey triggered. Hotkey: Print Screen, Description: Capture region, Job: RectangleRegion
+2024-04-04 03:18:21.614 - Executing: Capture region
+2024-04-04 03:21:09.477 - ShareX closing.
+2024-04-04 03:21:09.479 - ApplicationConfig save started: C:\Users\Aureliony\Documents\ShareX\ApplicationConfig.json
+2024-04-04 03:21:09.654 - ApplicationConfig save successful: C:\Users\Aureliony\Documents\ShareX\ApplicationConfig.json
+2024-04-04 03:21:09.654 - UploadersConfig save started: C:\Users\Aureliony\Documents\ShareX\UploadersConfig.json
+2024-04-04 03:21:09.701 - UploadersConfig save successful: C:\Users\Aureliony\Documents\ShareX\UploadersConfig.json
+2024-04-04 03:21:09.701 - HotkeysConfig save started: C:\Users\Aureliony\Documents\ShareX\HotkeysConfig.json
+2024-04-04 03:21:09.776 - HotkeysConfig save successful: C:\Users\Aureliony\Documents\ShareX\HotkeysConfig.json
+2024-04-04 03:21:09.776 - ShareX closed.
+2024-04-04 03:21:31.330 - ShareX starting.
+2024-04-04 03:21:31.337 - Version: 15.0
+2024-04-04 03:21:31.337 - Build: Release
+2024-04-04 03:21:31.337 - Command line: "C:\Program Files\ShareX\ShareX.exe" -silent
+2024-04-04 03:21:31.337 - Personal path: C:\Users\Aureliony\Documents\ShareX
+2024-04-04 03:21:31.337 - Operating system: Windows 10 Pro (64-bit)
+2024-04-04 03:21:31.337 - Running as elevated process: True
+2024-04-04 03:21:31.362 - Flags: SilentRun
+2024-04-04 03:21:31.375 - ApplicationConfig load started: C:\Users\Aureliony\Documents\ShareX\ApplicationConfig.json
+2024-04-04 03:21:31.801 - ApplicationConfig load finished: C:\Users\Aureliony\Documents\ShareX\ApplicationConfig.json
+2024-04-04 03:21:31.805 - UploadersConfig load started: C:\Users\Aureliony\Documents\ShareX\UploadersConfig.json
+2024-04-04 03:21:31.825 - MainForm init started.
+2024-04-04 03:21:31.893 - UploadersConfig load finished: C:\Users\Aureliony\Documents\ShareX\UploadersConfig.json
+2024-04-04 03:21:31.896 - HotkeysConfig load started: C:\Users\Aureliony\Documents\ShareX\HotkeysConfig.json
+2024-04-04 03:21:32.011 - HotkeysConfig load finished: C:\Users\Aureliony\Documents\ShareX\HotkeysConfig.json
+2024-04-04 03:21:32.768 - MainForm init finished.
+2024-04-04 03:21:32.906 - Startup time: 1723 ms
+2024-04-04 03:21:32.909 - CommandLine: -silent
+2024-04-04 03:21:32.927 - Hotkey registered: Hotkey: Print Screen, Description: Capture region, Job: RectangleRegion
+2024-04-04 03:21:32.927 - Hotkey registered: Hotkey: Ctrl + Print Screen, Description: Start/Stop screen recording (GIF), Job: ScreenRecorderGIF
+2024-04-04 03:21:32.928 - HotkeyManager started.
+2024-04-04 03:21:32.929 - WatchFolderManager started.
+2024-04-04 03:22:07.036 - ShareX closing.
+2024-04-04 03:22:07.038 - ApplicationConfig save started: C:\Users\Aureliony\Documents\ShareX\ApplicationConfig.json
+2024-04-04 03:22:07.205 - ApplicationConfig save successful: C:\Users\Aureliony\Documents\ShareX\ApplicationConfig.json
+2024-04-04 03:22:07.205 - UploadersConfig save started: C:\Users\Aureliony\Documents\ShareX\UploadersConfig.json
+2024-04-04 03:22:07.259 - UploadersConfig save successful: C:\Users\Aureliony\Documents\ShareX\UploadersConfig.json
+2024-04-04 03:22:07.259 - HotkeysConfig save started: C:\Users\Aureliony\Documents\ShareX\HotkeysConfig.json
+2024-04-04 03:22:07.332 - HotkeysConfig save successful: C:\Users\Aureliony\Documents\ShareX\HotkeysConfig.json
+2024-04-04 03:22:07.333 - ShareX closed.
+2024-04-04 03:22:27.983 - ShareX starting.
+2024-04-04 03:22:27.990 - Version: 15.0
+2024-04-04 03:22:27.990 - Build: Release
+2024-04-04 03:22:27.990 - Command line: "C:\Program Files\ShareX\ShareX.exe" -silent
+2024-04-04 03:22:27.990 - Personal path: C:\Users\Aureliony\Documents\ShareX
+2024-04-04 03:22:27.990 - Operating system: Windows 10 Pro (64-bit)
+2024-04-04 03:22:27.990 - Running as elevated process: True
+2024-04-04 03:22:28.016 - Flags: SilentRun
+2024-04-04 03:22:28.028 - ApplicationConfig load started: C:\Users\Aureliony\Documents\ShareX\ApplicationConfig.json
+2024-04-04 03:22:28.458 - ApplicationConfig load finished: C:\Users\Aureliony\Documents\ShareX\ApplicationConfig.json
+2024-04-04 03:22:28.462 - UploadersConfig load started: C:\Users\Aureliony\Documents\ShareX\UploadersConfig.json
+2024-04-04 03:22:28.483 - MainForm init started.
+2024-04-04 03:22:28.555 - UploadersConfig load finished: C:\Users\Aureliony\Documents\ShareX\UploadersConfig.json
+2024-04-04 03:22:28.558 - HotkeysConfig load started: C:\Users\Aureliony\Documents\ShareX\HotkeysConfig.json
+2024-04-04 03:22:28.684 - HotkeysConfig load finished: C:\Users\Aureliony\Documents\ShareX\HotkeysConfig.json
+2024-04-04 03:22:29.487 - MainForm init finished.
+2024-04-04 03:22:29.624 - Startup time: 1786 ms
+2024-04-04 03:22:29.628 - CommandLine: -silent
+2024-04-04 03:22:29.646 - Hotkey registered: Hotkey: Print Screen, Description: Capture region, Job: RectangleRegion
+2024-04-04 03:22:29.646 - Hotkey registered: Hotkey: Ctrl + Print Screen, Description: Start/Stop screen recording (GIF), Job: ScreenRecorderGIF
+2024-04-04 03:22:29.647 - HotkeyManager started.
+2024-04-04 03:22:29.648 - WatchFolderManager started.
+2024-04-04 03:27:05.991 - Hotkey triggered. Hotkey: Print Screen, Description: Capture region, Job: RectangleRegion
+2024-04-04 03:27:05.995 - Executing: Capture region
+2024-04-04 03:27:08.703 - Task in queue. Job: Job, Type: Image, Host: 
+2024-04-04 03:27:08.738 - Task status: Preparing
+2024-04-04 03:27:08.774 - Image copied to clipboard.
+2024-04-04 03:27:08.788 - Image saved to file: C:\Users\Aureliony\Documents\ShareX\Screenshots\idea64_dJO7ElPacm.png
+2024-04-04 03:27:08.803 - Task completed. File name: idea64_dJO7ElPacm.png, Duration: 62 ms
+2024-04-04 03:27:21.456 - ShareX closing.
+2024-04-04 03:27:21.458 - ApplicationConfig save started: C:\Users\Aureliony\Documents\ShareX\ApplicationConfig.json
+2024-04-04 03:27:21.640 - ApplicationConfig save successful: C:\Users\Aureliony\Documents\ShareX\ApplicationConfig.json
+2024-04-04 03:27:21.640 - UploadersConfig save started: C:\Users\Aureliony\Documents\ShareX\UploadersConfig.json
+2024-04-04 03:27:21.689 - UploadersConfig save successful: C:\Users\Aureliony\Documents\ShareX\UploadersConfig.json
+2024-04-04 03:27:21.689 - HotkeysConfig save started: C:\Users\Aureliony\Documents\ShareX\HotkeysConfig.json
+2024-04-04 03:27:21.763 - HotkeysConfig save successful: C:\Users\Aureliony\Documents\ShareX\HotkeysConfig.json
+2024-04-04 03:27:21.763 - ShareX closed.
+2024-04-04 03:27:47.817 - ShareX starting.
+2024-04-04 03:27:47.824 - Version: 15.0
+2024-04-04 03:27:47.824 - Build: Release
+2024-04-04 03:27:47.824 - Command line: "C:\Program Files\ShareX\ShareX.exe" -silent
+2024-04-04 03:27:47.824 - Personal path: C:\Users\Aureliony\Documents\ShareX
+2024-04-04 03:27:47.824 - Operating system: Windows 10 Pro (64-bit)
+2024-04-04 03:27:47.825 - Running as elevated process: True
+2024-04-04 03:27:47.850 - Flags: SilentRun
+2024-04-04 03:27:47.863 - ApplicationConfig load started: C:\Users\Aureliony\Documents\ShareX\ApplicationConfig.json
+2024-04-04 03:27:48.296 - ApplicationConfig load finished: C:\Users\Aureliony\Documents\ShareX\ApplicationConfig.json
+2024-04-04 03:27:48.299 - UploadersConfig load started: C:\Users\Aureliony\Documents\ShareX\UploadersConfig.json
+2024-04-04 03:27:48.320 - MainForm init started.
+2024-04-04 03:27:48.401 - UploadersConfig load finished: C:\Users\Aureliony\Documents\ShareX\UploadersConfig.json
+2024-04-04 03:27:48.403 - HotkeysConfig load started: C:\Users\Aureliony\Documents\ShareX\HotkeysConfig.json
+2024-04-04 03:27:48.521 - HotkeysConfig load finished: C:\Users\Aureliony\Documents\ShareX\HotkeysConfig.json
+2024-04-04 03:27:48.998 - MainForm init finished.
+2024-04-04 03:27:49.113 - Startup time: 1447 ms
+2024-04-04 03:27:49.117 - CommandLine: -silent
+2024-04-04 03:27:49.133 - Hotkey registered: Hotkey: Print Screen, Description: Capture region, Job: RectangleRegion
+2024-04-04 03:27:49.133 - Hotkey registered: Hotkey: Ctrl + Print Screen, Description: Start/Stop screen recording (GIF), Job: ScreenRecorderGIF
+2024-04-04 03:27:49.134 - HotkeyManager started.
+2024-04-04 03:27:49.134 - WatchFolderManager started.
+2024-04-04 03:34:34.587 - Hotkey triggered. Hotkey: Print Screen, Description: Capture region, Job: RectangleRegion
+2024-04-04 03:34:34.591 - Executing: Capture region
+2024-04-04 03:34:36.733 - Task in queue. Job: Job, Type: Image, Host: 
+2024-04-04 03:34:36.769 - Task status: Preparing
+2024-04-04 03:34:36.803 - Image copied to clipboard.
+2024-04-04 03:34:36.816 - Image saved to file: C:\Users\Aureliony\Documents\ShareX\Screenshots\java_Cjd7SodONq.png
+2024-04-04 03:34:36.829 - Task completed. File name: java_Cjd7SodONq.png, Duration: 57 ms
+2024-04-04 03:50:50.163 - ShareX closing.
+2024-04-04 03:50:50.165 - ApplicationConfig save started: C:\Users\Aureliony\Documents\ShareX\ApplicationConfig.json
+2024-04-04 03:50:50.373 - ApplicationConfig save successful: C:\Users\Aureliony\Documents\ShareX\ApplicationConfig.json
+2024-04-04 03:50:50.374 - UploadersConfig save started: C:\Users\Aureliony\Documents\ShareX\UploadersConfig.json
+2024-04-04 03:50:50.432 - UploadersConfig save successful: C:\Users\Aureliony\Documents\ShareX\UploadersConfig.json
+2024-04-04 03:50:50.432 - HotkeysConfig save started: C:\Users\Aureliony\Documents\ShareX\HotkeysConfig.json
+2024-04-04 03:50:50.507 - HotkeysConfig save successful: C:\Users\Aureliony\Documents\ShareX\HotkeysConfig.json
+2024-04-04 03:50:50.507 - ShareX closed.
+2024-04-04 09:12:02.356 - ShareX starting.
+2024-04-04 09:12:02.367 - Version: 15.0
+2024-04-04 09:12:02.367 - Build: Release
+2024-04-04 09:12:02.367 - Command line: "C:\Program Files\ShareX\ShareX.exe" -silent
+2024-04-04 09:12:02.367 - Personal path: C:\Users\Aureliony\Documents\ShareX
+2024-04-04 09:12:02.368 - Operating system: Windows 10 Pro (64-bit)
+2024-04-04 09:12:02.368 - Running as elevated process: True
+2024-04-04 09:12:02.398 - Flags: SilentRun
+2024-04-04 09:12:02.424 - ApplicationConfig load started: C:\Users\Aureliony\Documents\ShareX\ApplicationConfig.json
+2024-04-04 09:12:03.042 - ApplicationConfig load finished: C:\Users\Aureliony\Documents\ShareX\ApplicationConfig.json
+2024-04-04 09:12:03.050 - UploadersConfig load started: C:\Users\Aureliony\Documents\ShareX\UploadersConfig.json
+2024-04-04 09:12:03.066 - MainForm init started.
+2024-04-04 09:12:03.143 - UploadersConfig load finished: C:\Users\Aureliony\Documents\ShareX\UploadersConfig.json
+2024-04-04 09:12:03.150 - HotkeysConfig load started: C:\Users\Aureliony\Documents\ShareX\HotkeysConfig.json
+2024-04-04 09:12:03.267 - HotkeysConfig load finished: C:\Users\Aureliony\Documents\ShareX\HotkeysConfig.json
+2024-04-04 09:12:03.742 - MainForm init finished.
+2024-04-04 09:12:03.862 - Startup time: 1678 ms
+2024-04-04 09:12:03.867 - CommandLine: -silent
+2024-04-04 09:12:03.883 - Hotkey registered: Hotkey: Print Screen, Description: Capture region, Job: RectangleRegion
+2024-04-04 09:12:03.883 - Hotkey registered: Hotkey: Ctrl + Print Screen, Description: Start/Stop screen recording (GIF), Job: ScreenRecorderGIF
+2024-04-04 09:12:03.884 - HotkeyManager started.
+2024-04-04 09:12:03.885 - WatchFolderManager started.
+2024-04-04 09:29:58.572 - Hotkey triggered. Hotkey: Print Screen, Description: Capture region, Job: RectangleRegion
+2024-04-04 09:29:58.576 - Executing: Capture region
+2024-04-04 09:30:03.801 - Hotkey triggered. Hotkey: Print Screen, Description: Capture region, Job: RectangleRegion
+2024-04-04 09:30:03.801 - Executing: Capture region
+2024-04-04 09:53:59.670 - Hotkey triggered. Hotkey: Print Screen, Description: Capture region, Job: RectangleRegion
+2024-04-04 09:53:59.670 - Executing: Capture region
+2024-04-04 09:54:01.585 - Task in queue. Job: Job, Type: Image, Host: 
+2024-04-04 09:54:01.639 - Task status: Preparing
+2024-04-04 09:54:01.673 - Image copied to clipboard.
+2024-04-04 09:54:01.686 - Image saved to file: C:\Users\Aureliony\Documents\ShareX\Screenshots\idea64_3GctpstLXJ.png
+2024-04-04 09:54:01.698 - Task completed. File name: idea64_3GctpstLXJ.png, Duration: 58 ms
+2024-04-04 10:21:18.227 - Hotkey triggered. Hotkey: Print Screen, Description: Capture region, Job: RectangleRegion
+2024-04-04 10:21:18.227 - Executing: Capture region
+2024-04-04 10:21:21.396 - Task in queue. Job: Job, Type: Image, Host: 
+2024-04-04 10:21:21.415 - Task status: Preparing
+2024-04-04 10:21:21.430 - Image copied to clipboard.
+2024-04-04 10:21:21.441 - Image saved to file: C:\Users\Aureliony\Documents\ShareX\Screenshots\chrome_Orpzhayg1E.png
+2024-04-04 10:21:21.448 - Task completed. File name: chrome_Orpzhayg1E.png, Duration: 34 ms
+2024-04-04 10:24:14.044 - ShareX closing.
+2024-04-04 10:24:14.046 - ApplicationConfig save started: C:\Users\Aureliony\Documents\ShareX\ApplicationConfig.json
+2024-04-04 10:24:14.242 - ApplicationConfig save successful: C:\Users\Aureliony\Documents\ShareX\ApplicationConfig.json
+2024-04-04 10:24:14.243 - UploadersConfig save started: C:\Users\Aureliony\Documents\ShareX\UploadersConfig.json
+2024-04-04 10:24:14.293 - UploadersConfig save successful: C:\Users\Aureliony\Documents\ShareX\UploadersConfig.json
+2024-04-04 10:24:14.293 - HotkeysConfig save started: C:\Users\Aureliony\Documents\ShareX\HotkeysConfig.json
+2024-04-04 10:24:14.370 - HotkeysConfig save successful: C:\Users\Aureliony\Documents\ShareX\HotkeysConfig.json
+2024-04-04 10:24:14.370 - ShareX closed.
+2024-04-04 12:57:41.322 - ShareX starting.
+2024-04-04 12:57:41.333 - Version: 15.0
+2024-04-04 12:57:41.333 - Build: Release
+2024-04-04 12:57:41.333 - Command line: "C:\Program Files\ShareX\ShareX.exe" -silent
+2024-04-04 12:57:41.333 - Personal path: C:\Users\Aureliony\Documents\ShareX
+2024-04-04 12:57:41.334 - Operating system: Windows 10 Pro (64-bit)
+2024-04-04 12:57:41.334 - Running as elevated process: True
+2024-04-04 12:57:41.365 - Flags: SilentRun
+2024-04-04 12:57:41.393 - ApplicationConfig load started: C:\Users\Aureliony\Documents\ShareX\ApplicationConfig.json
+2024-04-04 12:57:41.975 - ApplicationConfig load finished: C:\Users\Aureliony\Documents\ShareX\ApplicationConfig.json
+2024-04-04 12:57:41.984 - UploadersConfig load started: C:\Users\Aureliony\Documents\ShareX\UploadersConfig.json
+2024-04-04 12:57:42.001 - MainForm init started.
+2024-04-04 12:57:42.081 - UploadersConfig load finished: C:\Users\Aureliony\Documents\ShareX\UploadersConfig.json
+2024-04-04 12:57:42.089 - HotkeysConfig load started: C:\Users\Aureliony\Documents\ShareX\HotkeysConfig.json
+2024-04-04 12:57:42.206 - HotkeysConfig load finished: C:\Users\Aureliony\Documents\ShareX\HotkeysConfig.json
+2024-04-04 12:57:42.736 - MainForm init finished.
+2024-04-04 12:57:42.874 - Startup time: 1737 ms
+2024-04-04 12:57:42.878 - CommandLine: -silent
+2024-04-04 12:57:42.896 - Hotkey registered: Hotkey: Print Screen, Description: Capture region, Job: RectangleRegion
+2024-04-04 12:57:42.896 - Hotkey registered: Hotkey: Ctrl + Print Screen, Description: Start/Stop screen recording (GIF), Job: ScreenRecorderGIF
+2024-04-04 12:57:42.897 - HotkeyManager started.
+2024-04-04 12:57:42.898 - WatchFolderManager started.
+2024-04-04 12:58:04.158 - Hotkey triggered. Hotkey: Print Screen, Description: Capture region, Job: RectangleRegion
+2024-04-04 12:58:04.162 - Executing: Capture region
+2024-04-04 12:58:08.657 - Hotkey triggered. Hotkey: Print Screen, Description: Capture region, Job: RectangleRegion
+2024-04-04 12:58:08.657 - Executing: Capture region
+2024-04-04 12:58:13.341 - Task in queue. Job: Job, Type: Image, Host: 
+2024-04-04 12:58:13.377 - Task status: Preparing
+2024-04-04 12:58:13.412 - Image copied to clipboard.
+2024-04-04 12:58:13.425 - Image saved to file: C:\Users\Aureliony\Documents\ShareX\Screenshots\chrome_PUIxXiIooc.png
+2024-04-04 12:58:13.436 - Task completed. File name: chrome_PUIxXiIooc.png, Duration: 56 ms
+2024-04-04 13:03:32.625 - Hotkey triggered. Hotkey: Print Screen, Description: Capture region, Job: RectangleRegion
+2024-04-04 13:03:32.625 - Executing: Capture region
+2024-04-04 13:03:35.104 - Task in queue. Job: Job, Type: Image, Host: 
+2024-04-04 13:03:35.108 - Task status: Preparing
+2024-04-04 13:03:35.122 - Image copied to clipboard.
+2024-04-04 13:03:35.132 - Image saved to file: C:\Users\Aureliony\Documents\ShareX\Screenshots\chrome_S5jOaf7O4k.png
+2024-04-04 13:03:35.139 - Task completed. File name: chrome_S5jOaf7O4k.png, Duration: 30 ms
+2024-04-04 13:20:02.960 - Hotkey triggered. Hotkey: Print Screen, Description: Capture region, Job: RectangleRegion
+2024-04-04 13:20:02.960 - Executing: Capture region
+2024-04-04 13:20:06.396 - Task in queue. Job: Job, Type: Image, Host: 
+2024-04-04 13:20:06.400 - Task status: Preparing
+2024-04-04 13:20:06.424 - Image copied to clipboard.
+2024-04-04 13:20:06.440 - Image saved to file: C:\Users\Aureliony\Documents\ShareX\Screenshots\chrome_wZ5dsDpkSy.png
+2024-04-04 13:20:06.452 - Task completed. File name: chrome_wZ5dsDpkSy.png, Duration: 51 ms
+2024-04-04 13:22:16.228 - Hotkey triggered. Hotkey: Print Screen, Description: Capture region, Job: RectangleRegion
+2024-04-04 13:22:16.228 - Executing: Capture region
+2024-04-04 13:22:19.788 - Task in queue. Job: Job, Type: Image, Host: 
+2024-04-04 13:22:19.792 - Task status: Preparing
+2024-04-04 13:22:19.827 - Image copied to clipboard.
+2024-04-04 13:22:19.849 - Image saved to file: C:\Users\Aureliony\Documents\ShareX\Screenshots\chrome_0huVjykUNH.png
+2024-04-04 13:22:19.866 - Task completed. File name: chrome_0huVjykUNH.png, Duration: 73 ms
+2024-04-04 13:25:19.628 - Hotkey triggered. Hotkey: Print Screen, Description: Capture region, Job: RectangleRegion
+2024-04-04 13:25:19.628 - Executing: Capture region
+2024-04-04 13:25:20.819 - Hotkey triggered. Hotkey: Print Screen, Description: Capture region, Job: RectangleRegion
+2024-04-04 13:25:20.819 - Executing: Capture region
+2024-04-04 13:25:22.126 - Hotkey triggered. Hotkey: Print Screen, Description: Capture region, Job: RectangleRegion
+2024-04-04 13:25:22.126 - Executing: Capture region
+2024-04-04 13:25:28.012 - Task in queue. Job: Job, Type: Image, Host: 
+2024-04-04 13:25:28.015 - Task status: Preparing
+2024-04-04 13:25:28.051 - Image copied to clipboard.
+2024-04-04 13:25:28.072 - Image saved to file: C:\Users\Aureliony\Documents\ShareX\Screenshots\chrome_DSvQ1hOvo1.png
+2024-04-04 13:25:28.089 - Task completed. File name: chrome_DSvQ1hOvo1.png, Duration: 74 ms
+2024-04-04 14:09:57.403 - Hotkey triggered. Hotkey: Print Screen, Description: Capture region, Job: RectangleRegion
+2024-04-04 14:09:57.403 - Executing: Capture region
+2024-04-04 14:09:58.794 - Task in queue. Job: Job, Type: Image, Host: 
+2024-04-04 14:09:58.797 - Task status: Preparing
+2024-04-04 14:09:58.810 - Image copied to clipboard.
+2024-04-04 14:09:58.818 - Image saved to file: C:\Users\Aureliony\Documents\ShareX\Screenshots\java_J0sEwvwvd7.png
+2024-04-04 14:09:58.826 - Task completed. File name: java_J0sEwvwvd7.png, Duration: 29 ms
+2024-04-04 14:14:08.213 - Hotkey triggered. Hotkey: Print Screen, Description: Capture region, Job: RectangleRegion
+2024-04-04 14:14:08.213 - Executing: Capture region
+2024-04-04 14:14:11.222 - Task in queue. Job: Job, Type: Image, Host: 
+2024-04-04 14:14:11.235 - Task status: Preparing
+2024-04-04 14:14:11.262 - Image copied to clipboard.
+2024-04-04 14:14:11.279 - Image saved to file: C:\Users\Aureliony\Documents\ShareX\Screenshots\chrome_rNJr898T0F.png
+2024-04-04 14:14:11.292 - Task completed. File name: chrome_rNJr898T0F.png, Duration: 56 ms
+2024-04-04 14:15:48.893 - Hotkey triggered. Hotkey: Print Screen, Description: Capture region, Job: RectangleRegion
+2024-04-04 14:15:48.893 - Executing: Capture region
+2024-04-04 14:15:58.724 - Hotkey triggered. Hotkey: Print Screen, Description: Capture region, Job: RectangleRegion
+2024-04-04 14:15:58.724 - Executing: Capture region
+2024-04-04 14:16:05.809 - Hotkey triggered. Hotkey: Print Screen, Description: Capture region, Job: RectangleRegion
+2024-04-04 14:16:05.809 - Executing: Capture region
+2024-04-04 14:16:31.139 - Hotkey triggered. Hotkey: Print Screen, Description: Capture region, Job: RectangleRegion
+2024-04-04 14:16:31.139 - Executing: Capture region
+2024-04-04 14:16:41.634 - Hotkey triggered. Hotkey: Print Screen, Description: Capture region, Job: RectangleRegion
+2024-04-04 14:16:41.634 - Executing: Capture region
+2024-04-04 14:16:45.017 - Hotkey triggered. Hotkey: Print Screen, Description: Capture region, Job: RectangleRegion
+2024-04-04 14:16:45.017 - Executing: Capture region
+2024-04-04 14:53:33.632 - ShareX closing.
+2024-04-04 14:53:33.637 - ApplicationConfig save started: C:\Users\Aureliony\Documents\ShareX\ApplicationConfig.json
+2024-04-04 14:53:33.839 - ApplicationConfig save successful: C:\Users\Aureliony\Documents\ShareX\ApplicationConfig.json
+2024-04-04 14:53:33.839 - UploadersConfig save started: C:\Users\Aureliony\Documents\ShareX\UploadersConfig.json
+2024-04-04 14:53:33.893 - UploadersConfig save successful: C:\Users\Aureliony\Documents\ShareX\UploadersConfig.json
+2024-04-04 14:53:33.895 - HotkeysConfig save started: C:\Users\Aureliony\Documents\ShareX\HotkeysConfig.json
+2024-04-04 14:53:33.970 - HotkeysConfig save successful: C:\Users\Aureliony\Documents\ShareX\HotkeysConfig.json
+2024-04-04 14:53:33.970 - ShareX closed.
+2024-04-04 20:37:35.345 - ShareX starting.
+2024-04-04 20:37:35.355 - Version: 15.0
+2024-04-04 20:37:35.355 - Build: Release
+2024-04-04 20:37:35.355 - Command line: "C:\Program Files\ShareX\ShareX.exe" -silent
+2024-04-04 20:37:35.355 - Personal path: C:\Users\Aureliony\Documents\ShareX
+2024-04-04 20:37:35.355 - Operating system: Windows 10 Pro (64-bit)
+2024-04-04 20:37:35.356 - Running as elevated process: True
+2024-04-04 20:37:35.386 - Flags: SilentRun
+2024-04-04 20:37:35.411 - ApplicationConfig load started: C:\Users\Aureliony\Documents\ShareX\ApplicationConfig.json
+2024-04-04 20:37:35.931 - ApplicationConfig load finished: C:\Users\Aureliony\Documents\ShareX\ApplicationConfig.json
+2024-04-04 20:37:35.939 - UploadersConfig load started: C:\Users\Aureliony\Documents\ShareX\UploadersConfig.json
+2024-04-04 20:37:35.956 - MainForm init started.
+2024-04-04 20:37:36.033 - UploadersConfig load finished: C:\Users\Aureliony\Documents\ShareX\UploadersConfig.json
+2024-04-04 20:37:36.040 - HotkeysConfig load started: C:\Users\Aureliony\Documents\ShareX\HotkeysConfig.json
+2024-04-04 20:37:36.159 - HotkeysConfig load finished: C:\Users\Aureliony\Documents\ShareX\HotkeysConfig.json
+2024-04-04 20:37:36.635 - MainForm init finished.
+2024-04-04 20:37:36.755 - Startup time: 1582 ms
+2024-04-04 20:37:36.759 - CommandLine: -silent
+2024-04-04 20:37:36.775 - Hotkey registered: Hotkey: Print Screen, Description: Capture region, Job: RectangleRegion
+2024-04-04 20:37:36.775 - Hotkey registered: Hotkey: Ctrl + Print Screen, Description: Start/Stop screen recording (GIF), Job: ScreenRecorderGIF
+2024-04-04 20:37:36.776 - HotkeyManager started.
+2024-04-04 20:37:36.776 - WatchFolderManager started.
+2024-04-04 22:12:44.328 - Hotkey triggered. Hotkey: Print Screen, Description: Capture region, Job: RectangleRegion
+2024-04-04 22:12:44.332 - Executing: Capture region
+2024-04-04 22:12:49.346 - Task in queue. Job: Job, Type: Image, Host: 
+2024-04-04 22:12:49.383 - Task status: Preparing
+2024-04-04 22:12:49.418 - Image copied to clipboard.
+2024-04-04 22:12:49.434 - Image saved to file: C:\Users\Aureliony\Documents\ShareX\Screenshots\chrome_HueH6Tdycy.png
+2024-04-04 22:12:49.447 - Task completed. File name: chrome_HueH6Tdycy.png, Duration: 63 ms
+2024-04-04 22:12:57.840 - Hotkey triggered. Hotkey: Print Screen, Description: Capture region, Job: RectangleRegion
+2024-04-04 22:12:57.840 - Executing: Capture region
+2024-04-04 22:13:01.683 - Task in queue. Job: Job, Type: Image, Host: 
+2024-04-04 22:13:01.687 - Task status: Preparing
+2024-04-04 22:13:01.710 - Image copied to clipboard.
+2024-04-04 22:13:01.720 - Image saved to file: C:\Users\Aureliony\Documents\ShareX\Screenshots\chrome_V5dactnhFM.png
+2024-04-04 22:13:01.728 - Task completed. File name: chrome_V5dactnhFM.png, Duration: 41 ms
+2024-04-04 22:16:31.215 - Hotkey triggered. Hotkey: Print Screen, Description: Capture region, Job: RectangleRegion
+2024-04-04 22:16:31.215 - Executing: Capture region
+2024-04-04 22:16:33.687 - Task in queue. Job: Job, Type: Image, Host: 
+2024-04-04 22:16:33.691 - Task status: Preparing
+2024-04-04 22:16:33.696 - Image copied to clipboard.
+2024-04-04 22:16:33.700 - Image saved to file: C:\Users\Aureliony\Documents\ShareX\Screenshots\chrome_4pBrPFxoee.png
+2024-04-04 22:16:33.702 - Task completed. File name: chrome_4pBrPFxoee.png, Duration: 11 ms
+2024-04-04 22:43:39.248 - Hotkey triggered. Hotkey: Print Screen, Description: Capture region, Job: RectangleRegion
+2024-04-04 22:43:39.248 - Executing: Capture region
+2024-04-04 22:43:40.956 - Task in queue. Job: Job, Type: Image, Host: 
+2024-04-04 22:43:40.960 - Task status: Preparing
+2024-04-04 22:43:40.984 - Image copied to clipboard.
+2024-04-04 22:43:41.000 - Image saved to file: C:\Users\Aureliony\Documents\ShareX\Screenshots\chrome_M1TlehmLKW.png
+2024-04-04 22:43:41.015 - Task completed. File name: chrome_M1TlehmLKW.png, Duration: 55 ms
+2024-04-04 23:12:52.633 - Hotkey triggered. Hotkey: Print Screen, Description: Capture region, Job: RectangleRegion
+2024-04-04 23:12:52.633 - Executing: Capture region
+2024-04-04 23:12:53.502 - Task in queue. Job: Job, Type: Image, Host: 
+2024-04-04 23:12:53.506 - Task status: Preparing
+2024-04-04 23:12:53.515 - Image copied to clipboard.
+2024-04-04 23:12:53.520 - Image saved to file: C:\Users\Aureliony\Documents\ShareX\Screenshots\idea64_YhkVi4psB7.png
+2024-04-04 23:12:53.524 - Task completed. File name: idea64_YhkVi4psB7.png, Duration: 18 ms
+2024-04-04 23:23:45.192 - Hotkey triggered. Hotkey: Print Screen, Description: Capture region, Job: RectangleRegion
+2024-04-04 23:23:45.192 - Executing: Capture region
+2024-04-04 23:23:50.494 - Task in queue. Job: Job, Type: Image, Host: 
+2024-04-04 23:23:50.497 - Task status: Preparing
+2024-04-04 23:23:50.504 - Image copied to clipboard.
+2024-04-04 23:23:50.506 - Image saved to file: C:\Users\Aureliony\Documents\ShareX\Screenshots\javaw_VdoZOpyFLC.png
+2024-04-04 23:23:50.510 - Task completed. File name: javaw_VdoZOpyFLC.png, Duration: 12 ms
+2024-04-04 23:24:24.055 - Hotkey triggered. Hotkey: Print Screen, Description: Capture region, Job: RectangleRegion
+2024-04-04 23:24:24.055 - Executing: Capture region
+2024-04-04 23:24:26.596 - Task in queue. Job: Job, Type: Image, Host: 
+2024-04-04 23:24:26.600 - Task status: Preparing
+2024-04-04 23:24:26.605 - Image copied to clipboard.
+2024-04-04 23:24:26.607 - Image saved to file: C:\Users\Aureliony\Documents\ShareX\Screenshots\javaw_ocOTJVlUeH.png
+2024-04-04 23:24:26.609 - Task completed. File name: javaw_ocOTJVlUeH.png, Duration: 9 ms
+2024-04-04 23:26:52.557 - Hotkey triggered. Hotkey: Print Screen, Description: Capture region, Job: RectangleRegion
+2024-04-04 23:26:52.557 - Executing: Capture region
+2024-04-04 23:34:58.552 - Hotkey triggered. Hotkey: Print Screen, Description: Capture region, Job: RectangleRegion
+2024-04-04 23:34:58.552 - Executing: Capture region
+2024-04-04 23:35:00.333 - Task in queue. Job: Job, Type: Image, Host: 
+2024-04-04 23:35:00.336 - Task status: Preparing
+2024-04-04 23:35:00.369 - Image copied to clipboard.
+2024-04-04 23:35:00.390 - Image saved to file: C:\Users\Aureliony\Documents\ShareX\Screenshots\java_CyVqx5sZo4.png
+2024-04-04 23:35:00.407 - Task completed. File name: java_CyVqx5sZo4.png, Duration: 70 ms
+2024-04-04 23:35:02.834 - Hotkey triggered. Hotkey: Print Screen, Description: Capture region, Job: RectangleRegion
+2024-04-04 23:35:02.834 - Executing: Capture region
+2024-04-04 23:35:04.744 - Task in queue. Job: Job, Type: Image, Host: 
+2024-04-04 23:35:04.749 - Task status: Preparing
+2024-04-04 23:35:04.757 - Image copied to clipboard.
+2024-04-04 23:35:04.760 - Image saved to file: C:\Users\Aureliony\Documents\ShareX\Screenshots\java_1WCm16oB9q.png
+2024-04-04 23:35:04.764 - Task completed. File name: java_1WCm16oB9q.png, Duration: 15 ms
+2024-04-04 23:40:41.073 - Hotkey triggered. Hotkey: Print Screen, Description: Capture region, Job: RectangleRegion
+2024-04-04 23:40:41.074 - Executing: Capture region
+2024-04-04 23:40:43.508 - Task in queue. Job: Job, Type: Image, Host: 
+2024-04-04 23:40:43.512 - Task status: Preparing
+2024-04-04 23:40:43.529 - Image copied to clipboard.
+2024-04-04 23:40:43.541 - Image saved to file: C:\Users\Aureliony\Documents\ShareX\Screenshots\chrome_rI9Rz9fVgm.png
+2024-04-04 23:40:43.549 - Task completed. File name: chrome_rI9Rz9fVgm.png, Duration: 37 ms
+2024-04-04 23:42:04.939 - Hotkey triggered. Hotkey: Print Screen, Description: Capture region, Job: RectangleRegion
+2024-04-04 23:42:04.939 - Executing: Capture region
+2024-04-04 23:42:06.775 - Task in queue. Job: Job, Type: Image, Host: 
+2024-04-04 23:42:06.780 - Task status: Preparing
+2024-04-04 23:42:06.788 - Image copied to clipboard.
+2024-04-04 23:42:06.792 - Image saved to file: C:\Users\Aureliony\Documents\ShareX\Screenshots\chrome_N5b3Luh6Fb.png
+2024-04-04 23:42:06.796 - Task completed. File name: chrome_N5b3Luh6Fb.png, Duration: 17 ms
+2024-04-04 23:43:02.361 - Hotkey triggered. Hotkey: Print Screen, Description: Capture region, Job: RectangleRegion
+2024-04-04 23:43:02.361 - Executing: Capture region
+2024-04-04 23:43:04.529 - Task in queue. Job: Job, Type: Image, Host: 
+2024-04-04 23:43:04.532 - Task status: Preparing
+2024-04-04 23:43:04.541 - Image copied to clipboard.
+2024-04-04 23:43:04.543 - Image saved to file: C:\Users\Aureliony\Documents\ShareX\Screenshots\chrome_8ZkKNq6Eio.png
+2024-04-04 23:43:04.545 - Task completed. File name: chrome_8ZkKNq6Eio.png, Duration: 12 ms
+2024-04-04 23:43:17.999 - Hotkey triggered. Hotkey: Print Screen, Description: Capture region, Job: RectangleRegion
+2024-04-04 23:43:17.999 - Executing: Capture region
+2024-04-04 23:43:21.468 - Hotkey triggered. Hotkey: Print Screen, Description: Capture region, Job: RectangleRegion
+2024-04-04 23:43:21.468 - Executing: Capture region
+2024-04-04 23:43:22.366 - Task in queue. Job: Job, Type: Image, Host: 
+2024-04-04 23:43:22.370 - Task status: Preparing
+2024-04-04 23:43:22.380 - Image copied to clipboard.
+2024-04-04 23:43:22.387 - Image saved to file: C:\Users\Aureliony\Documents\ShareX\Screenshots\chrome_lBctOsob5O.png
+2024-04-04 23:43:22.392 - Task completed. File name: chrome_lBctOsob5O.png, Duration: 23 ms
+2024-04-04 23:53:00.834 - Hotkey triggered. Hotkey: Print Screen, Description: Capture region, Job: RectangleRegion
+2024-04-04 23:53:00.834 - Executing: Capture region
+2024-04-04 23:53:03.976 - Task in queue. Job: Job, Type: Image, Host: 
+2024-04-04 23:53:03.980 - Task status: Preparing
+2024-04-04 23:53:04.007 - Image copied to clipboard.
+2024-04-04 23:53:04.026 - Image saved to file: C:\Users\Aureliony\Documents\ShareX\Screenshots\chrome_0kH93cFnNd.png
+2024-04-04 23:53:04.040 - Task completed. File name: chrome_0kH93cFnNd.png, Duration: 59 ms
+2024-04-04 23:53:32.145 - Hotkey triggered. Hotkey: Print Screen, Description: Capture region, Job: RectangleRegion
+2024-04-04 23:53:32.146 - Executing: Capture region
+2024-04-04 23:53:34.995 - Task in queue. Job: Job, Type: Image, Host: 
+2024-04-04 23:53:34.999 - Task status: Preparing
+2024-04-04 23:53:35.020 - Image copied to clipboard.
+2024-04-04 23:53:35.033 - Image saved to file: C:\Users\Aureliony\Documents\ShareX\Screenshots\chrome_94GPdHyjdp.png
+2024-04-04 23:53:35.044 - Task completed. File name: chrome_94GPdHyjdp.png, Duration: 44 ms
+2024-04-04 23:58:38.702 - Hotkey triggered. Hotkey: Print Screen, Description: Capture region, Job: RectangleRegion
+2024-04-04 23:58:38.702 - Executing: Capture region
+2024-04-04 23:58:40.304 - Task in queue. Job: Job, Type: Image, Host: 
+2024-04-04 23:58:40.319 - Task status: Preparing
+2024-04-04 23:58:40.324 - Image copied to clipboard.
+2024-04-04 23:58:40.326 - Image saved to file: C:\Users\Aureliony\Documents\ShareX\Screenshots\chrome_AIBzjjXMrH.png
+2024-04-04 23:58:40.328 - Task completed. File name: chrome_AIBzjjXMrH.png, Duration: 8 ms
+2024-04-05 00:12:50.414 - Hotkey triggered. Hotkey: Print Screen, Description: Capture region, Job: RectangleRegion
+2024-04-05 00:12:50.414 - Executing: Capture region
+2024-04-05 00:12:53.837 - Task in queue. Job: Job, Type: Image, Host: 
+2024-04-05 00:12:53.841 - Task status: Preparing
+2024-04-05 00:12:53.847 - Image copied to clipboard.
+2024-04-05 00:12:53.851 - Image saved to file: C:\Users\Aureliony\Documents\ShareX\Screenshots\chrome_gg8gCjtFpW.png
+2024-04-05 00:12:53.854 - Task completed. File name: chrome_gg8gCjtFpW.png, Duration: 12 ms
+2024-04-05 00:18:07.568 - Hotkey triggered. Hotkey: Print Screen, Description: Capture region, Job: RectangleRegion
+2024-04-05 00:18:07.568 - Executing: Capture region
+2024-04-05 00:19:05.449 - Hotkey triggered. Hotkey: Print Screen, Description: Capture region, Job: RectangleRegion
+2024-04-05 00:19:05.449 - Executing: Capture region
+2024-04-05 00:19:08.050 - Task in queue. Job: Job, Type: Image, Host: 
+2024-04-05 00:19:08.053 - Task status: Preparing
+2024-04-05 00:19:08.063 - Image copied to clipboard.
+2024-04-05 00:19:08.070 - Image saved to file: C:\Users\Aureliony\Documents\ShareX\Screenshots\chrome_XqSdWsBZWf.png
+2024-04-05 00:19:08.075 - Task completed. File name: chrome_XqSdWsBZWf.png, Duration: 22 ms
+2024-04-05 00:20:09.841 - Hotkey triggered. Hotkey: Print Screen, Description: Capture region, Job: RectangleRegion
+2024-04-05 00:20:09.841 - Executing: Capture region
+2024-04-05 00:20:12.397 - Hotkey triggered. Hotkey: Print Screen, Description: Capture region, Job: RectangleRegion
+2024-04-05 00:20:12.397 - Executing: Capture region
+2024-04-05 00:20:15.209 - Task in queue. Job: Job, Type: Image, Host: 
+2024-04-05 00:20:15.212 - Task status: Preparing
+2024-04-05 00:20:15.220 - Image copied to clipboard.
+2024-04-05 00:20:15.225 - Image saved to file: C:\Users\Aureliony\Documents\ShareX\Screenshots\chrome_IrmDReoXca.png
+2024-04-05 00:20:15.230 - Task completed. File name: chrome_IrmDReoXca.png, Duration: 18 ms
+2024-04-05 00:21:33.784 - Hotkey triggered. Hotkey: Print Screen, Description: Capture region, Job: RectangleRegion
+2024-04-05 00:21:33.784 - Executing: Capture region
+2024-04-05 00:21:36.079 - Task in queue. Job: Job, Type: Image, Host: 
+2024-04-05 00:21:36.083 - Task status: Preparing
+2024-04-05 00:21:36.092 - Image copied to clipboard.
+2024-04-05 00:21:36.097 - Image saved to file: C:\Users\Aureliony\Documents\ShareX\Screenshots\chrome_mcLmi6zdMh.png
+2024-04-05 00:21:36.102 - Task completed. File name: chrome_mcLmi6zdMh.png, Duration: 19 ms
+2024-04-05 00:33:19.889 - Hotkey triggered. Hotkey: Print Screen, Description: Capture region, Job: RectangleRegion
+2024-04-05 00:33:19.889 - Executing: Capture region
+2024-04-05 00:33:21.416 - Task in queue. Job: Job, Type: Image, Host: 
+2024-04-05 00:33:21.420 - Task status: Preparing
+2024-04-05 00:33:21.432 - Image copied to clipboard.
+2024-04-05 00:33:21.440 - Image saved to file: C:\Users\Aureliony\Documents\ShareX\Screenshots\chrome_hf2DSbNeoD.png
+2024-04-05 00:33:21.447 - Task completed. File name: chrome_hf2DSbNeoD.png, Duration: 26 ms
+2024-04-05 00:38:02.656 - Hotkey triggered. Hotkey: Print Screen, Description: Capture region, Job: RectangleRegion
+2024-04-05 00:38:02.656 - Executing: Capture region
+2024-04-05 00:51:34.976 - Hotkey triggered. Hotkey: Print Screen, Description: Capture region, Job: RectangleRegion
+2024-04-05 00:51:34.976 - Executing: Capture region
+2024-04-05 00:51:37.597 - Task in queue. Job: Job, Type: Image, Host: 
+2024-04-05 00:51:37.601 - Task status: Preparing
+2024-04-05 00:51:37.612 - Image copied to clipboard.
+2024-04-05 00:51:37.619 - Image saved to file: C:\Users\Aureliony\Documents\ShareX\Screenshots\chrome_br0KzHeMWl.png
+2024-04-05 00:51:37.625 - Task completed. File name: chrome_br0KzHeMWl.png, Duration: 25 ms
+2024-04-05 00:54:17.715 - Hotkey triggered. Hotkey: Print Screen, Description: Capture region, Job: RectangleRegion
+2024-04-05 00:54:17.715 - Executing: Capture region
+2024-04-05 00:54:21.730 - Task in queue. Job: Job, Type: Image, Host: 
+2024-04-05 00:54:21.734 - Task status: Preparing
+2024-04-05 00:54:21.751 - Image copied to clipboard.
+2024-04-05 00:54:21.762 - Image saved to file: C:\Users\Aureliony\Documents\ShareX\Screenshots\chrome_b82T6vkQkJ.png
+2024-04-05 00:54:21.772 - Task completed. File name: chrome_b82T6vkQkJ.png, Duration: 38 ms
+2024-04-05 01:08:10.370 - Hotkey triggered. Hotkey: Print Screen, Description: Capture region, Job: RectangleRegion
+2024-04-05 01:08:10.370 - Executing: Capture region
+2024-04-05 01:08:14.276 - Task in queue. Job: Job, Type: Image, Host: 
+2024-04-05 01:08:14.285 - Task status: Preparing
+2024-04-05 01:08:14.291 - Image copied to clipboard.
+2024-04-05 01:08:14.294 - Image saved to file: C:\Users\Aureliony\Documents\ShareX\Screenshots\java_ojEMPVm6xb.png
+2024-04-05 01:08:14.298 - Task completed. File name: java_ojEMPVm6xb.png, Duration: 13 ms
+2024-04-05 01:08:59.293 - Hotkey triggered. Hotkey: Print Screen, Description: Capture region, Job: RectangleRegion
+2024-04-05 01:08:59.293 - Executing: Capture region
+2024-04-05 01:09:04.206 - Task in queue. Job: Job, Type: Image, Host: 
+2024-04-05 01:09:04.210 - Task status: Preparing
+2024-04-05 01:09:04.215 - Image copied to clipboard.
+2024-04-05 01:09:04.218 - Image saved to file: C:\Users\Aureliony\Documents\ShareX\Screenshots\java_AAQq8eqxJN.png
+2024-04-05 01:09:04.220 - Task completed. File name: java_AAQq8eqxJN.png, Duration: 9 ms
+2024-04-05 01:13:35.853 - Hotkey triggered. Hotkey: Print Screen, Description: Capture region, Job: RectangleRegion
+2024-04-05 01:13:35.853 - Executing: Capture region
+2024-04-05 01:13:37.573 - Task in queue. Job: Job, Type: Image, Host: 
+2024-04-05 01:13:37.601 - Task status: Preparing
+2024-04-05 01:13:37.608 - Image copied to clipboard.
+2024-04-05 01:13:37.613 - Image saved to file: C:\Users\Aureliony\Documents\ShareX\Screenshots\idea64_OVKbJcwSlj.png
+2024-04-05 01:13:37.619 - Task completed. File name: idea64_OVKbJcwSlj.png, Duration: 18 ms
+2024-04-05 01:13:40.680 - Hotkey triggered. Hotkey: Print Screen, Description: Capture region, Job: RectangleRegion
+2024-04-05 01:13:40.680 - Executing: Capture region
+2024-04-05 01:13:43.897 - Task in queue. Job: Job, Type: Image, Host: 
+2024-04-05 01:13:43.913 - Task status: Preparing
+2024-04-05 01:13:43.925 - Image copied to clipboard.
+2024-04-05 01:13:43.934 - Image saved to file: C:\Users\Aureliony\Documents\ShareX\Screenshots\idea64_fX5EYeQv6o.png
+2024-04-05 01:13:43.941 - Task completed. File name: idea64_fX5EYeQv6o.png, Duration: 28 ms
+2024-04-05 01:16:06.742 - Hotkey triggered. Hotkey: Print Screen, Description: Capture region, Job: RectangleRegion
+2024-04-05 01:16:06.742 - Executing: Capture region
+2024-04-05 01:16:09.714 - Task in queue. Job: Job, Type: Image, Host: 
+2024-04-05 01:16:09.727 - Task status: Preparing
+2024-04-05 01:16:09.733 - Image copied to clipboard.
+2024-04-05 01:16:09.736 - Image saved to file: C:\Users\Aureliony\Documents\ShareX\Screenshots\java_1WFdRVLIw3.png
+2024-04-05 01:16:09.739 - Task completed. File name: java_1WFdRVLIw3.png, Duration: 12 ms
+2024-04-05 01:18:15.985 - Hotkey triggered. Hotkey: Print Screen, Description: Capture region, Job: RectangleRegion
+2024-04-05 01:18:15.985 - Executing: Capture region
+2024-04-05 01:18:18.269 - Task in queue. Job: Job, Type: Image, Host: 
+2024-04-05 01:18:18.273 - Task status: Preparing
+2024-04-05 01:18:18.279 - Image copied to clipboard.
+2024-04-05 01:18:18.283 - Image saved to file: C:\Users\Aureliony\Documents\ShareX\Screenshots\java_HGE4rLF4nX.png
+2024-04-05 01:18:18.287 - Task completed. File name: java_HGE4rLF4nX.png, Duration: 13 ms
+2024-04-05 01:19:48.360 - Hotkey triggered. Hotkey: Print Screen, Description: Capture region, Job: RectangleRegion
+2024-04-05 01:19:48.360 - Executing: Capture region
+2024-04-05 01:19:50.809 - Task in queue. Job: Job, Type: Image, Host: 
+2024-04-05 01:19:50.813 - Task status: Preparing
+2024-04-05 01:19:50.818 - Image copied to clipboard.
+2024-04-05 01:19:50.820 - Image saved to file: C:\Users\Aureliony\Documents\ShareX\Screenshots\java_9yunB2M8f2.png
+2024-04-05 01:19:50.823 - Task completed. File name: java_9yunB2M8f2.png, Duration: 9 ms
+2024-04-05 01:21:57.970 - Hotkey triggered. Hotkey: Print Screen, Description: Capture region, Job: RectangleRegion
+2024-04-05 01:21:57.970 - Executing: Capture region
+2024-04-05 01:22:01.148 - Task in queue. Job: Job, Type: Image, Host: 
+2024-04-05 01:22:01.152 - Task status: Preparing
+2024-04-05 01:22:01.164 - Image copied to clipboard.
+2024-04-05 01:22:01.172 - Image saved to file: C:\Users\Aureliony\Documents\ShareX\Screenshots\chrome_nTcZSsimyN.png
+2024-04-05 01:22:01.178 - Task completed. File name: chrome_nTcZSsimyN.png, Duration: 25 ms
+2024-04-05 01:22:44.147 - Hotkey triggered. Hotkey: Print Screen, Description: Capture region, Job: RectangleRegion
+2024-04-05 01:22:44.147 - Executing: Capture region
+2024-04-05 01:22:46.696 - Task in queue. Job: Job, Type: Image, Host: 
+2024-04-05 01:22:46.700 - Task status: Preparing
+2024-04-05 01:22:46.709 - Image copied to clipboard.
+2024-04-05 01:22:46.714 - Image saved to file: C:\Users\Aureliony\Documents\ShareX\Screenshots\chrome_BG13jfGl8X.png
+2024-04-05 01:22:46.718 - Task completed. File name: chrome_BG13jfGl8X.png, Duration: 18 ms
+2024-04-05 01:23:35.482 - Hotkey triggered. Hotkey: Print Screen, Description: Capture region, Job: RectangleRegion
+2024-04-05 01:23:35.482 - Executing: Capture region
+2024-04-05 01:23:36.950 - Task in queue. Job: Job, Type: Image, Host: 
+2024-04-05 01:23:36.953 - Task status: Preparing
+2024-04-05 01:23:36.961 - Image copied to clipboard.
+2024-04-05 01:23:36.966 - Image saved to file: C:\Users\Aureliony\Documents\ShareX\Screenshots\chrome_i4QvFIgORr.png
+2024-04-05 01:23:36.970 - Task completed. File name: chrome_i4QvFIgORr.png, Duration: 17 ms
+2024-04-05 01:23:41.014 - Hotkey triggered. Hotkey: Print Screen, Description: Capture region, Job: RectangleRegion
+2024-04-05 01:23:41.014 - Executing: Capture region
+2024-04-05 01:23:42.717 - Task in queue. Job: Job, Type: Image, Host: 
+2024-04-05 01:23:42.721 - Task status: Preparing
+2024-04-05 01:23:42.730 - Image copied to clipboard.
+2024-04-05 01:23:42.735 - Image saved to file: C:\Users\Aureliony\Documents\ShareX\Screenshots\chrome_KJVt2NqnZL.png
+2024-04-05 01:23:42.739 - Task completed. File name: chrome_KJVt2NqnZL.png, Duration: 18 ms
+2024-04-05 01:38:59.095 - Hotkey triggered. Hotkey: Print Screen, Description: Capture region, Job: RectangleRegion
+2024-04-05 01:38:59.095 - Executing: Capture region
+2024-04-05 01:39:00.484 - Task in queue. Job: Job, Type: Image, Host: 
+2024-04-05 01:39:00.487 - Task status: Preparing
+2024-04-05 01:39:00.520 - Image copied to clipboard.
+2024-04-05 01:39:00.543 - Image saved to file: C:\Users\Aureliony\Documents\ShareX\Screenshots\java_hEF8a4ETGB.png
+2024-04-05 01:39:00.562 - Task completed. File name: java_hEF8a4ETGB.png, Duration: 74 ms
+2024-04-05 01:44:35.230 - Hotkey triggered. Hotkey: Print Screen, Description: Capture region, Job: RectangleRegion
+2024-04-05 01:44:35.230 - Executing: Capture region
+2024-04-05 01:44:38.707 - Task in queue. Job: Job, Type: Image, Host: 
+2024-04-05 01:44:38.713 - Task status: Preparing
+2024-04-05 01:44:38.734 - Image copied to clipboard.
+2024-04-05 01:44:38.748 - Image saved to file: C:\Users\Aureliony\Documents\ShareX\Screenshots\chrome_7CfWUmVNbp.png
+2024-04-05 01:44:38.757 - Task completed. File name: chrome_7CfWUmVNbp.png, Duration: 44 ms
+2024-04-05 01:49:14.694 - Hotkey triggered. Hotkey: Print Screen, Description: Capture region, Job: RectangleRegion
+2024-04-05 01:49:14.694 - Executing: Capture region
+2024-04-05 01:49:16.792 - Task in queue. Job: Job, Type: Image, Host: 
+2024-04-05 01:49:16.796 - Task status: Preparing
+2024-04-05 01:49:16.805 - Image copied to clipboard.
+2024-04-05 01:49:16.810 - Image saved to file: C:\Users\Aureliony\Documents\ShareX\Screenshots\chrome_Q3Dho67P2X.png
+2024-04-05 01:49:16.814 - Task completed. File name: chrome_Q3Dho67P2X.png, Duration: 17 ms
+2024-04-05 01:54:58.766 - Hotkey triggered. Hotkey: Print Screen, Description: Capture region, Job: RectangleRegion
+2024-04-05 01:54:58.766 - Executing: Capture region
+2024-04-05 01:55:01.348 - Task in queue. Job: Job, Type: Image, Host: 
+2024-04-05 01:55:01.352 - Task status: Preparing
+2024-04-05 01:55:01.362 - Image copied to clipboard.
+2024-04-05 01:55:01.369 - Image saved to file: C:\Users\Aureliony\Documents\ShareX\Screenshots\chrome_LUgSB3ODLX.png
+2024-04-05 01:55:01.373 - Task completed. File name: chrome_LUgSB3ODLX.png, Duration: 20 ms
+2024-04-05 01:56:14.185 - Hotkey triggered. Hotkey: Print Screen, Description: Capture region, Job: RectangleRegion
+2024-04-05 01:56:14.185 - Executing: Capture region
+2024-04-05 01:56:16.528 - Task in queue. Job: Job, Type: Image, Host: 
+2024-04-05 01:56:16.532 - Task status: Preparing
+2024-04-05 01:56:16.542 - Image copied to clipboard.
+2024-04-05 01:56:16.546 - Image saved to file: C:\Users\Aureliony\Documents\ShareX\Screenshots\chrome_njRk6QbpFy.png
+2024-04-05 01:56:16.550 - Task completed. File name: chrome_njRk6QbpFy.png, Duration: 17 ms
+2024-04-05 01:56:35.626 - Hotkey triggered. Hotkey: Print Screen, Description: Capture region, Job: RectangleRegion
+2024-04-05 01:56:35.626 - Executing: Capture region
+2024-04-05 01:56:38.002 - Task in queue. Job: Job, Type: Image, Host: 
+2024-04-05 01:56:38.006 - Task status: Preparing
+2024-04-05 01:56:38.017 - Image copied to clipboard.
+2024-04-05 01:56:38.021 - Image saved to file: C:\Users\Aureliony\Documents\ShareX\Screenshots\chrome_bi8PMUa5oI.png
+2024-04-05 01:56:38.025 - Task completed. File name: chrome_bi8PMUa5oI.png, Duration: 19 ms
+2024-04-05 02:40:23.676 - Hotkey triggered. Hotkey: Print Screen, Description: Capture region, Job: RectangleRegion
+2024-04-05 02:40:23.677 - Executing: Capture region
+2024-04-05 02:40:26.227 - Task in queue. Job: Job, Type: Image, Host: 
+2024-04-05 02:40:26.231 - Task status: Preparing
+2024-04-05 02:40:26.245 - Image copied to clipboard.
+2024-04-05 02:40:26.257 - Image saved to file: C:\Users\Aureliony\Documents\ShareX\Screenshots\chrome_vD3xiUxhRB.png
+2024-04-05 02:40:26.265 - Task completed. File name: chrome_vD3xiUxhRB.png, Duration: 35 ms
+2024-04-05 03:29:36.300 - ShareX closing.
+2024-04-05 03:29:36.302 - ApplicationConfig save started: C:\Users\Aureliony\Documents\ShareX\ApplicationConfig.json
+2024-04-05 03:29:36.462 - ApplicationConfig save successful: C:\Users\Aureliony\Documents\ShareX\ApplicationConfig.json
+2024-04-05 03:29:36.463 - UploadersConfig save started: C:\Users\Aureliony\Documents\ShareX\UploadersConfig.json
+2024-04-05 03:29:36.511 - UploadersConfig save successful: C:\Users\Aureliony\Documents\ShareX\UploadersConfig.json
+2024-04-05 03:29:36.511 - HotkeysConfig save started: C:\Users\Aureliony\Documents\ShareX\HotkeysConfig.json
+2024-04-05 03:29:36.588 - HotkeysConfig save successful: C:\Users\Aureliony\Documents\ShareX\HotkeysConfig.json
+2024-04-05 03:29:36.588 - ShareX closed.
+2024-04-05 13:44:56.372 - ShareX starting.
+2024-04-05 13:44:56.382 - Version: 15.0
+2024-04-05 13:44:56.382 - Build: Release
+2024-04-05 13:44:56.382 - Command line: "C:\Program Files\ShareX\ShareX.exe" -silent
+2024-04-05 13:44:56.382 - Personal path: C:\Users\Aureliony\Documents\ShareX
+2024-04-05 13:44:56.382 - Operating system: Windows 10 Pro (64-bit)
+2024-04-05 13:44:56.382 - Running as elevated process: True
+2024-04-05 13:44:56.412 - Flags: SilentRun
+2024-04-05 13:44:56.438 - ApplicationConfig load started: C:\Users\Aureliony\Documents\ShareX\ApplicationConfig.json
+2024-04-05 13:44:57.030 - ApplicationConfig load finished: C:\Users\Aureliony\Documents\ShareX\ApplicationConfig.json
+2024-04-05 13:44:57.038 - UploadersConfig load started: C:\Users\Aureliony\Documents\ShareX\UploadersConfig.json
+2024-04-05 13:44:57.054 - MainForm init started.
+2024-04-05 13:44:57.130 - UploadersConfig load finished: C:\Users\Aureliony\Documents\ShareX\UploadersConfig.json
+2024-04-05 13:44:57.137 - HotkeysConfig load started: C:\Users\Aureliony\Documents\ShareX\HotkeysConfig.json
+2024-04-05 13:44:57.276 - HotkeysConfig load finished: C:\Users\Aureliony\Documents\ShareX\HotkeysConfig.json
+2024-04-05 13:44:57.792 - MainForm init finished.
+2024-04-05 13:44:57.918 - Startup time: 1714 ms
+2024-04-05 13:44:57.921 - CommandLine: -silent
+2024-04-05 13:44:57.937 - Hotkey registered: Hotkey: Print Screen, Description: Capture region, Job: RectangleRegion
+2024-04-05 13:44:57.937 - Hotkey registered: Hotkey: Ctrl + Print Screen, Description: Start/Stop screen recording (GIF), Job: ScreenRecorderGIF
+2024-04-05 13:44:57.939 - HotkeyManager started.
+2024-04-05 13:44:57.939 - WatchFolderManager started.
+2024-04-05 14:54:40.073 - Hotkey triggered. Hotkey: Print Screen, Description: Capture region, Job: RectangleRegion
+2024-04-05 14:54:40.077 - Executing: Capture region
+2024-04-05 14:54:42.748 - Task in queue. Job: Job, Type: Image, Host: 
+2024-04-05 14:54:42.787 - Task status: Preparing
+2024-04-05 14:54:42.819 - Image copied to clipboard.
+2024-04-05 14:54:42.833 - Image saved to file: C:\Users\Aureliony\Documents\ShareX\Screenshots\chrome_Whr0m6c2G7.png
+2024-04-05 14:54:42.842 - Task completed. File name: chrome_Whr0m6c2G7.png, Duration: 54 ms
+2024-04-05 14:57:07.806 - Hotkey triggered. Hotkey: Print Screen, Description: Capture region, Job: RectangleRegion
+2024-04-05 14:57:07.806 - Executing: Capture region
+2024-04-05 14:57:10.201 - Task in queue. Job: Job, Type: Image, Host: 
+2024-04-05 14:57:10.205 - Task status: Preparing
+2024-04-05 14:57:10.208 - Image copied to clipboard.
+2024-04-05 14:57:10.210 - Image saved to file: C:\Users\Aureliony\Documents\ShareX\Screenshots\java_O9AyN0Y7hP.png
+2024-04-05 14:57:10.211 - Task completed. File name: java_O9AyN0Y7hP.png, Duration: 7 ms
+2024-04-05 14:59:10.211 - Hotkey triggered. Hotkey: Print Screen, Description: Capture region, Job: RectangleRegion
+2024-04-05 14:59:10.211 - Executing: Capture region
+2024-04-05 14:59:12.671 - Task in queue. Job: Job, Type: Image, Host: 
+2024-04-05 14:59:12.675 - Task status: Preparing
+2024-04-05 14:59:12.679 - Image copied to clipboard.
+2024-04-05 14:59:12.680 - Image saved to file: C:\Users\Aureliony\Documents\ShareX\Screenshots\java_A7xeUum6ko.png
+2024-04-05 14:59:12.682 - Task completed. File name: java_A7xeUum6ko.png, Duration: 6 ms
+2024-04-05 15:00:58.149 - Hotkey triggered. Hotkey: Print Screen, Description: Capture region, Job: RectangleRegion
+2024-04-05 15:00:58.149 - Executing: Capture region
+2024-04-05 15:01:00.299 - Task in queue. Job: Job, Type: Image, Host: 
+2024-04-05 15:01:00.303 - Task status: Preparing
+2024-04-05 15:01:00.313 - Image copied to clipboard.
+2024-04-05 15:01:00.317 - Image saved to file: C:\Users\Aureliony\Documents\ShareX\Screenshots\chrome_wsbqxH6en6.png
+2024-04-05 15:01:00.321 - Task completed. File name: chrome_wsbqxH6en6.png, Duration: 19 ms
+2024-04-05 15:02:22.359 - Hotkey triggered. Hotkey: Print Screen, Description: Capture region, Job: RectangleRegion
+2024-04-05 15:02:22.359 - Executing: Capture region
+2024-04-05 15:03:11.361 - Hotkey triggered. Hotkey: Print Screen, Description: Capture region, Job: RectangleRegion
+2024-04-05 15:03:11.361 - Executing: Capture region
+2024-04-05 15:03:15.445 - Task in queue. Job: Job, Type: Image, Host: 
+2024-04-05 15:03:15.448 - Task status: Preparing
+2024-04-05 15:03:15.455 - Image copied to clipboard.
+2024-04-05 15:03:15.459 - Image saved to file: C:\Users\Aureliony\Documents\ShareX\Screenshots\java_A7kfH8OCax.png
+2024-04-05 15:03:15.462 - Task completed. File name: java_A7kfH8OCax.png, Duration: 14 ms
+2024-04-05 15:07:58.755 - ShareX closing.
+2024-04-05 15:07:58.758 - ApplicationConfig save started: C:\Users\Aureliony\Documents\ShareX\ApplicationConfig.json
+2024-04-05 15:07:58.980 - ApplicationConfig save successful: C:\Users\Aureliony\Documents\ShareX\ApplicationConfig.json
+2024-04-05 15:07:58.980 - UploadersConfig save started: C:\Users\Aureliony\Documents\ShareX\UploadersConfig.json
+2024-04-05 15:07:59.032 - UploadersConfig save successful: C:\Users\Aureliony\Documents\ShareX\UploadersConfig.json
+2024-04-05 15:07:59.032 - HotkeysConfig save started: C:\Users\Aureliony\Documents\ShareX\HotkeysConfig.json
+2024-04-05 15:07:59.114 - HotkeysConfig save successful: C:\Users\Aureliony\Documents\ShareX\HotkeysConfig.json
+2024-04-05 15:07:59.114 - ShareX closed.
+2024-04-05 07:10:52.754 - ShareX starting.
+2024-04-05 07:10:52.765 - Version: 15.0
+2024-04-05 07:10:52.765 - Build: Release
+2024-04-05 07:10:52.765 - Command line: "C:\Program Files\ShareX\ShareX.exe" -silent
+2024-04-05 07:10:52.765 - Personal path: C:\Users\Aureliony\Documents\ShareX
+2024-04-05 07:10:52.765 - Operating system: Windows 10 Pro (64-bit)
+2024-04-05 07:10:52.766 - Running as elevated process: True
+2024-04-05 07:10:52.797 - Flags: SilentRun
+2024-04-05 07:10:52.828 - ApplicationConfig load started: C:\Users\Aureliony\Documents\ShareX\ApplicationConfig.json
+2024-04-05 07:10:53.683 - ApplicationConfig load finished: C:\Users\Aureliony\Documents\ShareX\ApplicationConfig.json
+2024-04-05 07:10:53.694 - UploadersConfig load started: C:\Users\Aureliony\Documents\ShareX\UploadersConfig.json
+2024-04-05 07:10:53.710 - MainForm init started.
+2024-04-05 07:10:53.791 - UploadersConfig load finished: C:\Users\Aureliony\Documents\ShareX\UploadersConfig.json
+2024-04-05 07:10:53.798 - HotkeysConfig load started: C:\Users\Aureliony\Documents\ShareX\HotkeysConfig.json
+2024-04-05 07:10:53.922 - HotkeysConfig load finished: C:\Users\Aureliony\Documents\ShareX\HotkeysConfig.json
+2024-04-05 07:10:54.508 - MainForm init finished.
+2024-04-05 07:10:54.639 - Startup time: 2060 ms
+2024-04-05 07:10:54.642 - CommandLine: -silent
+2024-04-05 07:10:54.659 - Hotkey registered: Hotkey: Print Screen, Description: Capture region, Job: RectangleRegion
+2024-04-05 07:10:54.659 - Hotkey registered: Hotkey: Ctrl + Print Screen, Description: Start/Stop screen recording (GIF), Job: ScreenRecorderGIF
+2024-04-05 07:10:54.660 - HotkeyManager started.
+2024-04-05 07:10:54.661 - WatchFolderManager started.
+2024-04-05 15:23:32.606 - Hotkey triggered. Hotkey: Print Screen, Description: Capture region, Job: RectangleRegion
+2024-04-05 15:23:32.610 - Executing: Capture region
+2024-04-05 15:23:43.552 - Hotkey triggered. Hotkey: Print Screen, Description: Capture region, Job: RectangleRegion
+2024-04-05 15:23:43.552 - Executing: Capture region
+2024-04-05 15:24:47.295 - Hotkey triggered. Hotkey: Print Screen, Description: Capture region, Job: RectangleRegion
+2024-04-05 15:24:47.295 - Executing: Capture region
+2024-04-05 15:24:49.233 - Task in queue. Job: Job, Type: Image, Host: 
+2024-04-05 15:24:49.270 - Task status: Preparing
+2024-04-05 15:24:49.296 - Image copied to clipboard.
+2024-04-05 15:24:49.305 - Image saved to file: C:\Users\Aureliony\Documents\ShareX\Screenshots\chrome_SMMBTIMWpA.png
+2024-04-05 15:24:49.312 - Task completed. File name: chrome_SMMBTIMWpA.png, Duration: 40 ms
+2024-04-05 15:28:49.583 - Hotkey triggered. Hotkey: Print Screen, Description: Capture region, Job: RectangleRegion
+2024-04-05 15:28:49.583 - Executing: Capture region
+2024-04-05 15:28:52.771 - Task in queue. Job: Job, Type: Image, Host: 
+2024-04-05 15:28:52.774 - Task status: Preparing
+2024-04-05 15:28:52.778 - Image copied to clipboard.
+2024-04-05 15:28:52.780 - Image saved to file: C:\Users\Aureliony\Documents\ShareX\Screenshots\chrome_URBnRRv2ke.png
+2024-04-05 15:28:52.781 - Task completed. File name: chrome_URBnRRv2ke.png, Duration: 6 ms
+2024-04-05 15:32:29.636 - Hotkey triggered. Hotkey: Print Screen, Description: Capture region, Job: RectangleRegion
+2024-04-05 15:32:29.636 - Executing: Capture region
+2024-04-05 15:32:31.936 - Task in queue. Job: Job, Type: Image, Host: 
+2024-04-05 15:32:31.939 - Task status: Preparing
+2024-04-05 15:32:31.944 - Image copied to clipboard.
+2024-04-05 15:32:31.946 - Image saved to file: C:\Users\Aureliony\Documents\ShareX\Screenshots\chrome_ZFD9pXh0eV.png
+2024-04-05 15:32:31.947 - Task completed. File name: chrome_ZFD9pXh0eV.png, Duration: 8 ms
+2024-04-05 15:33:48.286 - Hotkey triggered. Hotkey: Print Screen, Description: Capture region, Job: RectangleRegion
+2024-04-05 15:33:48.286 - Executing: Capture region
+2024-04-05 15:33:50.626 - Task in queue. Job: Job, Type: Image, Host: 
+2024-04-05 15:33:50.630 - Task status: Preparing
+2024-04-05 15:33:50.645 - Image copied to clipboard.
+2024-04-05 15:33:50.656 - Image saved to file: C:\Users\Aureliony\Documents\ShareX\Screenshots\chrome_Z02NYwQj8u.png
+2024-04-05 15:33:50.663 - Task completed. File name: chrome_Z02NYwQj8u.png, Duration: 33 ms
+2024-04-05 15:33:52.830 - Hotkey triggered. Hotkey: Print Screen, Description: Capture region, Job: RectangleRegion
+2024-04-05 15:33:52.830 - Executing: Capture region
+2024-04-05 15:33:55.737 - Hotkey triggered. Hotkey: Print Screen, Description: Capture region, Job: RectangleRegion
+2024-04-05 15:33:55.737 - Executing: Capture region
+2024-04-05 15:35:09.418 - Task in queue. Job: Job, Type: Image, Host: 
+2024-04-05 15:35:09.421 - Task status: Preparing
+2024-04-05 15:35:09.437 - Image copied to clipboard.
+2024-04-05 15:35:09.448 - Image saved to file: C:\Users\Aureliony\Documents\ShareX\Screenshots\FJvaiZU5QJ.png
+2024-04-05 15:35:09.455 - Task completed. File name: FJvaiZU5QJ.png, Duration: 33 ms
+2024-04-05 15:37:42.523 - Hotkey triggered. Hotkey: Print Screen, Description: Capture region, Job: RectangleRegion
+2024-04-05 15:37:42.523 - Executing: Capture region
+2024-04-05 15:37:46.840 - Task in queue. Job: Job, Type: Image, Host: 
+2024-04-05 15:37:46.843 - Task status: Preparing
+2024-04-05 15:37:46.860 - Image copied to clipboard.
+2024-04-05 15:37:46.872 - Image saved to file: C:\Users\Aureliony\Documents\ShareX\Screenshots\chrome_ud8O0mWhze.png
+2024-04-05 15:37:46.880 - Task completed. File name: chrome_ud8O0mWhze.png, Duration: 36 ms
+2024-04-05 15:37:48.067 - Hotkey triggered. Hotkey: Print Screen, Description: Capture region, Job: RectangleRegion
+2024-04-05 15:37:48.067 - Executing: Capture region
+2024-04-05 15:38:10.527 - Task in queue. Job: Job, Type: Image, Host: 
+2024-04-05 15:38:10.530 - Task status: Preparing
+2024-04-05 15:38:10.551 - Image copied to clipboard.
+2024-04-05 15:38:10.563 - Image saved to file: C:\Users\Aureliony\Documents\ShareX\Screenshots\GjQRApis3p.png
+2024-04-05 15:38:10.571 - Task completed. File name: GjQRApis3p.png, Duration: 40 ms
